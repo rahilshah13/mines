@@ -2,6 +2,7 @@
 
 - `brew install gdal`
 - `./download_topography.sh`
+- the 15-arcsecond granularity dataset from NOAA is 64 GB
 
 --- 
 
