@@ -12,12 +12,12 @@
 ## Mine Locations
 ![Facility Animation](facilities.gif)
 
-## Mines by type
+## Mines by Commodity
 ![Facility types](mines_by_type.png)
 
-## Mine types by latitude
+## Mines by Commodity and Latitude
 ![Facilities by Latitude](mines_by_latitude.png)
 TODO: normalize latitude bands by land area and population
 
-## Mine types by Elevation
+## Mines by Commodity and Elevation
 ![Facilities by Elevation](mines_by_elevation.png)
