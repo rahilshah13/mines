@@ -1,68 +1,72 @@
 import geopandas as gpd
+import pandas as pd
 import matplotlib.pyplot as plt
-from matplotlib.widgets import RadioButtons
+from matplotlib.widgets import RadioButtons, Button
 from matplotlib.animation import FuncAnimation
-import fiona
 
-gpkg_path = "./mine_data/data/facilities.gpkg"
-gdf = gpd.read_file(gpkg_path, layer='facilities') 
+gdf = gpd.read_file("./mine_data/data/facilities.gpkg", layer='facilities').drop_duplicates(subset=['facility_name'])
+gdf['lat'] = gdf.geometry.centroid.y
+gdf['lon'] = gdf.geometry.centroid.x
 
-# --- Print Facility Coordinates ---
-def get_lat(geom):
-    if geom is None or geom.is_empty: return None
-    if hasattr(geom, 'geoms'): return geom.geoms[0].y if len(geom.geoms) > 0 else None
-    return geom.y
+def generate_reports(event):
+    print("--- Starting report generation ---")
+    with open("facility.txt", 'w') as f:
+        for _, r in gdf.iterrows():
+            commodity = r.get('primary_commodity', 'Unknown')
+            line = f"{r['facility_name']} | Lat: {r['lat']:.6f}, Lon: {r['lon']:.6f} | {commodity}" if pd.notna(r['lat']) else f"{r['facility_name']} | No coordinates. | {commodity}"
+            f.write(line + "\n")
+    print("Successfully saved 'facility.txt'")
+    
+    avg_lat = gdf.groupby('primary_commodity')['lat'].mean()
+    print("Average Latitude per Commodity:\n", avg_lat)
+    fig_a, ax_a = plt.subplots(figsize=(8, 6))
+    gdf['primary_commodity'].value_counts().plot(kind='bar', ax=ax_a, color='skyblue', edgecolor='black')
+    ax_a.set_title("Commodities by Type"); ax_a.set_ylabel("Count")
+    plt.tight_layout(); fig_a.savefig('mines_by_type.png')
+    plt.close(fig_a)
+    fig_b, ax_b = plt.subplots(figsize=(10, 6))
+    gdf['lat_bin'] = pd.cut(gdf['lat'], bins=10)
+    lat_comm = gdf.groupby(['lat_bin', 'primary_commodity']).size().unstack(fill_value=0)
+    lat_comm.index = [f"{interval.left:.2f} to {interval.right:.2f}" for interval in lat_comm.index]
+    lat_comm.plot(kind='bar', stacked=True, ax=ax_b)
+    ax_b.set_title("Commodities by Latitude Bin"); ax_b.set_ylabel("Count")
+    ax_b.set_xlabel("Latitude Range")
+    plt.xticks(rotation=45, ha='right')
+    plt.legend(bbox_to_anchor=(1.05, 1), loc='upper left')
+    plt.tight_layout(); fig_b.savefig('mines_by_latitude.png')
+    plt.close(fig_b)
+    print("--- All reports generated successfully ---")
 
-def get_lon(geom):
-    if geom is None or geom.is_empty: return None
-    if hasattr(geom, 'geoms'): return geom.geoms[0].x if len(geom.geoms) > 0 else None
-    return geom.x
-
-lats = gdf.geometry.apply(get_lat)
-lons = gdf.geometry.apply(get_lon)
-
-for name, lat, lon in zip(gdf['facility_name'], lats, lons):
-    if lat is not None and lon is not None:
-        print(f"Facility: {name} | Lat: {lat:.6f}, Lon: {lon:.6f}")
-    else:
-        print(f"Facility: {name} | No valid coordinates found.")
-
-
-# --- Setup Plot ---
-filter_col = 'primary_commodity' 
-unique_values = sorted([val for val in gdf[filter_col].unique() if val is not None])
-options = ['All'] + unique_values
-fig, ax = plt.subplots(figsize=(10, 8))
-plt.subplots_adjust(left=0.25)
+fig, ax = plt.subplots(figsize=(10, 8)); plt.subplots_adjust(left=0.25)
+filter_col = 'primary_commodity'
+options = ['All'] + sorted(gdf[filter_col].dropna().unique())
 
 def update(label):
     ax.clear()
-    if label == 'All':
-        gdf.plot(ax=ax, color='blue', edgecolor='black', alpha=0.7)
-    else:
-        gdf[gdf[filter_col] == label].plot(ax=ax, color='red', edgecolor='black', alpha=0.7)
-    ax.set_title(f"Facilities producing: {label}")
+    subset = gdf if label == 'All' else gdf[gdf[filter_col] == label]
+    subset.plot(ax=ax, color='red' if label != 'All' else 'blue', edgecolor='black', alpha=0.7)
+    ax.set_title(f"Facilities: {label}")
     plt.draw()
 
-# Initial plot
+anim = None
+def save_gif(event):
+    global anim
+    anim = FuncAnimation(fig, lambda i: update(options[i]), frames=len(options), interval=1000)
+    anim.save('facilities.gif', writer='pillow')
+    print("Saved 'facilities.gif'")
+
 gdf.plot(ax=ax, color='blue', edgecolor='black', alpha=0.7)
 
-# --- Button Logic ---
-ax_radio = plt.axes([0.02, 0.4, 0.15, 0.3], facecolor='#f0f0f0')
-radio = RadioButtons(ax_radio, options)
+rax = plt.axes([0.02, 0.4, 0.15, 0.3])
+radio = RadioButtons(rax, options)
 radio.on_clicked(update)
 
-# --- GIF Export Function ---
-def save_gif(event):
-    print("Generating GIF...")
-    def animate(i):
-        update(options[i])
-    anim = FuncAnimation(fig, animate, frames=len(options), interval=1000)
-    anim.save('facilities.gif', writer='pillow')
-    print("Saved as 'facilities.gif'")
+btn_gif_ax = plt.axes([0.02, 0.3, 0.15, 0.05])
+btn_gif = Button(btn_gif_ax, 'Save GIF')
+btn_gif.on_clicked(save_gif)
 
-ax_button = plt.axes([0.02, 0.3, 0.15, 0.05])
-from matplotlib.widgets import Button
-btn = Button(ax_button, 'Save GIF')
-btn.on_clicked(save_gif)
+btn_rep_ax = plt.axes([0.02, 0.2, 0.15, 0.05])
+btn_rep = Button(btn_rep_ax, 'Generate Reports')
+btn_rep.on_clicked(generate_reports)
+
 plt.show()

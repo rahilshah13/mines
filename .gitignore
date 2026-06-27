@@ -1,7 +1,12 @@
 /*
 !.gitignore
 !README.md
-!facilities.gif
-!download_topography.sh
 !mine_data/
+!download_topography.sh
 !display_mines.py
+!facility.txt
+!facilities.gif
+!mines_by_type.png
+!mines_by_latitude.png
+!elevation.py
+!elevation.txt

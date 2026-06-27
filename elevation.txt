@@ -1,0 +1,673 @@
+A Narrain | Lat: 14.223525, Lon: 76.208414 | 887.18m
+Achinsk Alumina Refinery | Lat: 56.234643, Lon: 90.423973 | 250.93m
+AGA Mineracao | Lat: -19.867725, Lon: -43.739068 | 1008.48m
+Air Quality | Lat: 38.628058, Lon: -87.445879 | 146.52m
+Airly | Lat: -33.115251, Lon: 150.028607 | 730.66m
+Al Ba’itha | Lat: 27.671628, Lon: 43.986672 | 583.31m
+Albras | Lat: -1.554160, Lon: -48.733735 | 22.65m
+Alexievskaya | Lat: 54.616447, Lon: 86.326374 | 192.49m
+Altar | Lat: -31.483951, Lon: -70.467269 | 3926.65m
+Altonorte | Lat: -23.823028, Lon: -70.314317 | 1085.15m
+Alumar | Lat: -2.705369, Lon: -44.332949 | 21.19m
+Alunorte | Lat: -1.544991, Lon: -48.731595 | 26.56m
+Amandelbult | Lat: -24.784391, Lon: 27.349895 | 1054.26m
+Amapa | Lat: 0.822420, Lon: -51.869092 | 117.21m
+Ambatovy | Lat: -18.826559, Lon: 48.312245 | 946.2m
+Amonate | Lat: 37.191008, Lon: -81.637237 | 601.38m
+AMVEST Fola Complex | Lat: 38.358663, Lon: -81.084090 | 405.62m
+AMVEST Terry Eagle Complex | Lat: 38.232806, Lon: -81.147364 | 234.62m
+Andorinhas | Lat: -7.460556, Lon: -49.816389 | 237.49m
+Andrade | Lat: -19.795128, Lon: -43.171528 | 707.5m
+Angus Place | Lat: -33.351538, Lon: 150.099689 | 912.27m
+Antapaccay | Lat: -14.883244, Lon: -71.314831 | 4114.74m
+Antas | Lat: -6.240522, Lon: -49.752962 | 271.46m
+Antelope | Lat: 43.474572, Lon: -105.358442 | 1419.49m
+Antonovskaya | Lat: 53.876412, Lon: 87.312122 | 186.23m
+Antucoya | Lat: -22.629118, Lon: -69.837417 | 1436.39m
+ArcelorMittal Bremen | Lat: 53.142614, Lon: 8.693016 | 3.21m
+ArcelorMittal Cleveland | Lat: 41.464762, Lon: -81.665985 | 196.93m
+ArcelorMittal Gipuzkoa | Lat: 43.103927, Lon: -2.425795 | 159.43m
+ArcelorMittal Hamburg steel plant | Lat: 53.525051, Lon: 9.902624 | 17.44m
+ArcelorMittal Tubarao | Lat: -20.229159, Lon: -40.254368 | 35.77m
+Argyle | Lat: -16.720286, Lon: 128.385044 | 392.89m
+Arnot | Lat: -25.929780, Lon: 29.774703 | 1632.68m
+Asam-Asam | Lat: -3.874017, Lon: 115.106194 | -7.0m
+Australia Sands | Lat: -30.646932, Lon: 115.472719 | 91.98m
+Aviles and Gijon steel plant | Lat: 43.534217, Lon: -5.722956 | -643.41m
+Azul | Lat: -6.104873, Lon: -50.299549 | 475.94m
+Baal Bone | Lat: -33.270928, Lon: 150.057722 | 875.86m
+Balangan | Lat: -2.353946, Lon: 115.605336 | 67.41m
+Bangun Olahsarana Sukses | Lat: -0.421605, Lon: 115.913077 | 20.71m
+Barbacena Ferroalloys plant | Lat: -21.200237, Lon: -43.815585 | 1038.54m
+Baruun Noyon Uul | Lat: 43.258334, Lon: 99.691425 | 1202.65m
+Barzasskoye tovarischestvo | Lat: 55.721963, Lon: 86.024541 | 270.95m
+Batulicin | Lat: -3.389605, Lon: 116.000519 | 45.33m
+Bauxite Company of Guyana | Lat: 5.985258, Lon: -58.273634 | 10.65m
+Bayovar | Lat: -6.012184, Lon: -80.832195 | 29.54m
+Bear Run | Lat: 38.996744, Lon: -87.273242 | 173.47m
+Beckley | Lat: 37.779287, Lon: -81.263494 | 611.23m
+Belfast | Lat: -25.833958, Lon: 29.988723 | 1625.02m
+Beltana | Lat: -32.708413, Lon: 151.110148 | 173.35m
+Benga | Lat: -16.151281, Lon: 33.660885 | 142.97m
+Bengalla | Lat: -32.289865, Lon: 150.804193 | 154.64m
+Berezovskaya | Lat: 55.601023, Lon: 86.243049 | 219.11m
+Berezovskiy | Lat: 53.729576, Lon: 86.797461 | 372.3m
+Bergsöe | Lat: 55.863189, Lon: 12.850784 | 60.49m
+Big Mountain | Lat: 38.002378, Lon: -81.646899 | 460.05m
+Birch River | Lat: 38.469977, Lon: -80.642936 | 482.18m
+Birdwell/Miller Creek | Lat: 39.029303, Lon: -87.070498 | 159.7m
+Black Rock | Lat: -27.132777, Lon: 22.833699 | 1052.76m
+Black Thunder | Lat: 43.658233, Lon: -105.308910 | 1413.38m
+Blacksville | Lat: 39.711191, Lon: -80.292852 | 373.68m
+Bocaina | Lat: -20.314645, Lon: -45.588868 | 809.97m
+Boddington | Lat: -32.763610, Lon: 116.382645 | 241.1m
+Boffa | Lat: 10.180825, Lon: -14.039162 | 282.9m
+Boggabri | Lat: -30.610596, Lon: 150.171323 | 431.76m
+Bokoni | Lat: -24.292792, Lon: 29.881615 | 819.61m
+Bolivar | Lat: 27.094329, Lon: -107.989302 | 1921.99m
+Bolshevik | Lat: 53.911788, Lon: 87.330750 | 186.5m
+Bosjesspruit | Lat: -26.711009, Lon: 29.172692 | 1558.1m
+Boxitogorsk Alumina Refinery | Lat: 59.461760, Lon: 33.825334 | 83.62m
+Bracemac-McLeod | Lat: 49.688419, Lon: -77.694497 | 242.66m
+Brandspruit | Lat: -26.589246, Lon: 29.145684 | 1533.63m
+Breapampa | Lat: -15.076507, Lon: -73.669896 | 3658.03m
+Broken Hill | Lat: -31.977088, Lon: 141.457827 | 284.98m
+BRPM | Lat: -25.465127, Lon: 27.099911 | 1120.61m
+Bryansky | Lat: 54.331612, Lon: 86.867052 | 343.03m
+Buchanan | Lat: 37.213169, Lon: -81.898249 | 814.95m
+Buckingham | Lat: 39.578603, Lon: -82.068408 | 278.71m
+Bulga | Lat: -32.674413, Lon: 151.096614 | 142.83m
+Bulyanhulu | Lat: -3.228689, Lon: 32.483679 | 1200.57m
+Burbanks | Lat: -31.375091, Lon: 121.488422 | 336.78m
+Burns Harbor | Lat: 41.622296, Lon: -87.116245 | 115.0m
+Burnstone | Lat: -26.651606, Lon: 28.672003 | 1514.37m
+Buzwagi | Lat: -3.863998, Lon: 32.671022 | 1254.82m
+Caballo | Lat: 44.115923, Lon: -105.339189 | 1359.86m
+Cadia | Lat: -33.457960, Lon: 148.996560 | 502.21m
+Cadiz | Lat: 40.272194, Lon: -81.041364 | 371.05m
+Cagdianao | Lat: 10.163421, Lon: 125.668258 | 104.94m
+Carbones del Guasare | Lat: 11.041552, Lon: -72.273166 | -0.57m
+Carmen de Andacollo | Lat: -30.256716, Lon: -71.086290 | 1065.67m
+Carosue Dam | Lat: -30.153572, Lon: 122.350958 | 366.61m
+Carrapateena | Lat: -31.239886, Lon: 137.492165 | 153.83m
+Casa de Pedra | Lat: -20.486113, Lon: -43.896238 | 969.89m
+Casposo | Lat: -31.210804, Lon: -69.630009 | 2324.79m
+Cato Ridge | Lat: -29.716351, Lon: 30.618107 | 621.3m
+Cayeli | Lat: 41.039486, Lon: 40.765036 | -1583.3m
+CBG Sangaredi | Lat: 11.079653, Lon: -13.786853 | 138.3m
+Centinela | Lat: -22.953896, Lon: -69.128837 | 2188.64m
+Central Murchison Gold Project | Lat: -27.318154, Lon: 117.655500 | 386.13m
+Century | Lat: -18.734005, Lon: 138.619156 | 163.87m
+Cerrejon | Lat: 11.132820, Lon: -72.624500 | 97.3m
+Cerro Bayo | Lat: -46.545331, Lon: -71.849629 | 1520.25m
+Cerro Matoso | Lat: 7.922526, Lon: -75.547895 | 60.4m
+Cerro Moro | Lat: -48.130369, Lon: -66.653730 | 66.39m
+Cerro Negro | Lat: -46.872219, Lon: -70.220258 | 944.72m
+Cerro Vanguardia | Lat: -48.384231, Lon: -68.262665 | 205.19m
+Cerro Verde | Lat: -16.538255, Lon: -71.578330 | 297.48m
+Chain Valley | Lat: -33.162907, Lon: 151.549515 | 13.55m
+Chanderiya Smelter | Lat: 24.962556, Lon: 74.662682 | 359.69m
+Charbon | Lat: -32.893539, Lon: 149.981065 | 610.65m
+Cheremshansky | Lat: 54.367464, Lon: 86.904300 | 287.43m
+Cherepovets Steel | Lat: 59.144929, Lon: 37.804293 | 108.35m
+Chernigovets | Lat: 55.619568, Lon: 86.162245 | 259.29m
+Chifeng | Lat: 42.287749, Lon: 119.028527 | 578.48m
+Clairton Plant | Lat: 40.296670, Lon: -79.872987 | 231.78m
+Clarence | Lat: -33.464019, Lon: 150.247286 | 1050.89m
+Cliffs | Lat: -27.306884, Lon: 120.540913 | 526.41m
+Cliffs Logan County Coal | Lat: 37.800144, Lon: -81.674530 | 388.45m
+Coal Creek | Lat: 44.099893, Lon: -105.404719 | 1368.34m
+Coal‑Mac | Lat: 37.757959, Lon: -82.111902 | 321.63m
+Coatesville | Lat: 39.970427, Lon: -75.812691 | 154.31m
+Cobre Panama | Lat: 8.843979, Lon: -80.654122 | 123.38m
+Cockatoo Island | Lat: -16.093914, Lon: 123.609184 | 106.14m
+Codelco Norte | Lat: -22.307428, Lon: -68.915946 | 2747.91m
+Coermotibo and Onverdacht | Lat: 5.571677, Lon: -54.305544 | -5.0m
+Collahuasi | Lat: -20.955616, Lon: -68.706577 | 4735.28m
+Collingwood | Lat: -15.763496, Lon: 145.230090 | 246.92m
+Consolidated Murchison | Lat: -23.902234, Lon: 30.693605 | 1195.6m
+Cooke | Lat: -26.252754, Lon: 27.739395 | 1607.63m
+Coral Bay Nickel Corporation | Lat: 8.557308, Lon: 117.424679 | -53.0m
+Cordero Rojo | Lat: 44.033534, Lon: -105.331367 | 1391.94m
+Corridor G | Lat: 38.108195, Lon: -81.977643 | 293.08m
+Cosmos | Lat: -27.590127, Lon: 120.581848 | 435.39m
+Cowal | Lat: -33.640609, Lon: 147.399575 | 220.64m
+Cripple Creek & Victor | Lat: 38.744538, Lon: -105.146628 | 2814.59m
+CSA | Lat: -31.409105, Lon: 145.799881 | 264.37m
+Cuajone | Lat: -17.038403, Lon: -70.704952 | 3198.39m
+Cumberland River | Lat: 36.970117, Lon: -82.741940 | 769.22m
+Cumnock | Lat: -32.407591, Lon: 151.058158 | 113.51m
+Cusi | Lat: 28.244160, Lon: -106.837528 | 2035.68m
+Darby | Lat: 36.877178, Lon: -83.011436 | 426.55m
+Darling Range Mines | Lat: -32.917528, Lon: 116.031296 | 330.68m
+Dartbrook | Lat: -32.152931, Lon: 150.827038 | 194.56m
+Deflector | Lat: -28.661411, Lon: 116.374346 | 274.91m
+DeGrussa | Lat: -25.539949, Lon: 119.322927 | 633.28m
+Delma | Lat: -26.264540, Lon: 28.831212 | 1598.86m
+Denisovskiy | Lat: 56.774962, Lon: 124.845125 | 796.34m
+Dian Dian | Lat: 10.893066, Lon: -14.228071 | 68.02m
+Dilworth | Lat: 39.832474, Lon: -79.954167 | 238.26m
+Dodge Hill | Lat: 37.555517, Lon: -88.042484 | 112.8m
+Dofasco Hamilton | Lat: 43.260067, Lon: -79.812069 | 77.31m
+Dolores | Lat: 28.989353, Lon: -108.536707 | 1437.15m
+Dotiki Complex | Lat: 37.453541, Lon: -87.773653 | 120.49m
+Drayton | Lat: -32.354978, Lon: 150.900863 | 266.89m
+Driefontein | Lat: -26.390570, Lon: 27.489972 | 1637.5m
+Drummond Cesar | Lat: 9.705502, Lon: -73.522703 | 65.68m
+Duck Pond | Lat: 48.643991, Lon: -56.488776 | 276.84m
+Dvoinoye | Lat: 67.638925, Lon: 169.205828 | 1119.55m
+Dwarsrivier | Lat: -24.936885, Lon: 30.127611 | 1109.7m
+Dynamic Energy | Lat: 37.497216, Lon: -81.454578 | 685.17m
+Dzhebariki-Khaya | Lat: 62.195847, Lon: 135.872546 | 215.68m
+Eagle Pass | Lat: 28.813636, Lon: -100.459384 | 274.33m
+Edgar Thomson Plant | Lat: 40.397180, Lon: -79.863702 | 228.21m
+Edna May | Lat: -31.285881, Lon: 118.694946 | 348.07m
+Eisenhüttenstadt steel plant | Lat: 52.162544, Lon: 14.631428 | 13.24m
+El Abra | Lat: -21.921632, Lon: -68.833515 | 3831.0m
+El Arco | Lat: 28.029179, Lon: -113.399424 | 282.09m
+El Hatillo | Lat: 9.638629, Lon: -73.553081 | 61.35m
+El Penon | Lat: -24.411448, Lon: -69.496551 | 1815.26m
+El Romeral | Lat: -29.721705, Lon: -71.233352 | 123.4m
+El Sauzal | Lat: 26.997556, Lon: -107.889334 | 2062.54m
+El Volcan | Lat: 27.740724, Lon: -109.305456 | 702.61m
+Eleonore | Lat: 52.706088, Lon: -76.067833 | 216.94m
+Elgaugol | Lat: 56.198780, Lon: 130.418056 | 1345.12m
+Endeavor | Lat: -31.162619, Lon: 145.655204 | 215.32m
+Ergo | Lat: -26.276474, Lon: 28.374370 | 1634.89m
+Escobal | Lat: 14.468898, Lon: -90.165130 | 1349.28m
+Escondida | Lat: -24.270757, Lon: -69.071897 | 2632.85m
+Eurallumina | Lat: 39.209412, Lon: 8.399670 | 22.07m
+EVRAZ VGOK | Lat: 57.910652, Lon: 59.916015 | 277.71m
+Evrazruda | Lat: 52.765706, Lon: 87.878466 | 299.25m
+Extension Hill/Iron Hill | Lat: -29.570508, Lon: 117.148110 | 324.86m
+Exxaro Coal Central | Lat: -26.201158, Lon: 29.353616 | 1602.14m
+Fabrica | Lat: -20.181017, Lon: -43.880841 | 1324.02m
+Farmersburg | Lat: 39.248651, Lon: -87.381963 | 171.35m
+Federal | Lat: 39.669997, Lon: -80.253253 | 379.98m
+Fernandinho | Lat: -20.183833, Lon: -43.859028 | 1309.66m
+Flint Ridge | Lat: 37.482376, Lon: -83.236439 | 380.45m
+FNI Cagdianao | Lat: 9.495076, Lon: 125.867516 | 8.42m
+Fortescue Pilbara Region | Lat: -22.326748, Lon: 119.396984 | 447.25m
+Fortnum Gold Operations | Lat: -25.329329, Lon: 118.356257 | 507.02m
+Fos-sur-Mer steel plant | Lat: 43.437098, Lon: 4.877832 | 2.91m
+Francisco | Lat: 38.337959, Lon: -87.433876 | 131.5m
+Franke | Lat: -25.836793, Lon: -69.856130 | 1405.32m
+Freda-Rebecca | Lat: -17.297133, Lon: 31.308718 | 1094.16m
+Friguia | Lat: 10.387486, Lon: -13.578314 | 170.36m
+Fruta del Norte | Lat: -3.834197, Lon: -78.603979 | 1288.98m
+Fujairah Refinery | Lat: 25.193947, Lon: 56.354509 | 2.79m
+Gabriela Mistral | Lat: -23.422881, Lon: -68.790356 | 2740.4m
+Gary Works | Lat: 41.609302, Lon: -87.333523 | 131.0m
+Gateway North | Lat: 38.186558, Lon: -89.622528 | 171.48m
+Geita | Lat: -2.867576, Lon: 32.186494 | 1371.35m
+Gerdau Barao de Cocais | Lat: -19.937301, Lon: -43.480088 | 840.52m
+Gerdau Cambridge | Lat: 43.371497, Lon: -80.280507 | 292.59m
+Gerdau Cearense | Lat: -3.854267, Lon: -38.605432 | 66.99m
+Gerdau Charlotte | Lat: 35.340538, Lon: -80.827094 | 238.23m
+Gerdau Charqueadas | Lat: -29.952803, Lon: -51.616160 | 21.99m
+Gerdau Contagem | Lat: -19.962031, Lon: -44.023970 | 967.45m
+Gerdau Cosigua | Lat: -22.905327, Lon: -43.745672 | -5.0m
+Gerdau Divinopolis | Lat: -20.153202, Lon: -44.878179 | 724.88m
+Gerdau Jackson - Michigan | Lat: 42.202633, Lon: -84.364510 | 293.29m
+Gerdau Jackson - Tennessee | Lat: 35.727201, Lon: -88.806991 | 106.38m
+Gerdau Monroe | Lat: 41.894130, Lon: -83.359534 | 183.7m
+Gerdau Ouro Branco | Lat: -20.541310, Lon: -43.753073 | 1115.77m
+Gerdau Petersburg | Lat: 37.187114, Lon: -77.449968 | 45.75m
+Gerdau Pindamonhangaba | Lat: -22.902637, Lon: -45.353175 | 956.09m
+Gerdau Riograndense | Lat: -29.814950, Lon: -51.175052 | 5.68m
+Gerdau Sete Lagoas | Lat: -19.523321, Lon: -44.265651 | 721.97m
+Gerdau Whitby | Lat: 43.855629, Lon: -78.910699 | 225.38m
+Gerdau Wilton | Lat: 41.586421, Lon: -91.039889 | 228.84m
+Gibson Complex | Lat: 38.305699, Lon: -87.707787 | 143.82m
+Goedehoop | Lat: -26.047781, Lon: 29.490333 | 1662.94m
+Goedgevonden | Lat: -26.090777, Lon: 29.075798 | 1565.36m
+Golden Grove | Lat: -28.745323, Lon: 116.946342 | 378.0m
+Goldstrike | Lat: 40.977127, Lon: -116.360987 | 1523.31m
+Granite City Works | Lat: 38.699156, Lon: -90.145555 | 171.31m
+Great Lakes Works | Lat: 42.257311, Lon: -83.136662 | 176.83m
+Great Noligwa | Lat: -26.959709, Lon: 26.785123 | 1337.77m
+Greenbrier | Lat: 38.026151, Lon: -80.649032 | 1000.67m
+Greens Creek | Lat: 58.082359, Lon: -134.639236 | 273.19m
+Greenside | Lat: -25.958266, Lon: 29.180219 | 1592.8m
+Griffin | Lat: -33.398910, Lon: 116.320451 | 285.9m
+Grootegeluk | Lat: -23.656537, Lon: 27.569235 | 1226.53m
+Gualcamayo | Lat: -29.697555, Lon: -68.628701 | 1512.21m
+Guanaco and Amancaya | Lat: -25.108197, Lon: -69.522433 | 2711.2m
+Guelb Moghrein | Lat: 19.753850, Lon: -14.417672 | 98.13m
+Gunnedah | Lat: -30.631634, Lon: 150.194269 | 375.85m
+Guston Run | Lat: 39.689671, Lon: -80.060006 | 319.24m
+Haile | Lat: 34.597729, Lon: -80.539238 | 189.18m
+Halls Creek | Lat: -18.408645, Lon: 127.356787 | 397.12m
+Hamersley - Channar | Lat: -23.301847, Lon: 117.779851 | 483.61m
+Hamersley - Eastern Range | Lat: -23.263437, Lon: 117.693051 | 545.23m
+Hamersley Mines | Lat: -22.421624, Lon: 117.350456 | 619.55m
+Hamilton Complex | Lat: 38.172777, Lon: -88.611503 | 128.77m
+Hamilton Works | Lat: 43.270290, Lon: -79.822405 | 78.6m
+Haystack | Lat: 41.413133, Lon: -110.676760 | 2065.45m
+Hazard | Lat: 37.381832, Lon: -83.189067 | 295.87m
+Henderson | Lat: 39.769816, Lon: -105.837471 | 1585.12m
+Hercules | Lat: 28.033364, Lon: -103.763675 | 1403.54m
+Higginsville Gold Operations | Lat: -31.731194, Lon: 121.721675 | 261.06m
+Highland | Lat: 37.735500, Lon: -87.777803 | 121.57m
+Hinatuan | Lat: 9.776895, Lon: 125.715406 | -40.0m
+Hope Downs | Lat: -22.955096, Lon: 119.123468 | 610.44m
+Hotazel | Lat: -27.108570, Lon: 22.853360 | 1040.81m
+Humphrey | Lat: 39.675324, Lon: -79.987193 | 313.92m
+Hunter Valley Operations | Lat: -32.447559, Lon: 150.978595 | 71.28m
+Illawarra | Lat: -34.473422, Lon: 150.741700 | 215.36m
+ILO | Lat: -17.497439, Lon: -71.360126 | 28.52m
+Iluka Virginia | Lat: 36.622107, Lon: -77.635559 | 71.71m
+Iluka Western Australia | Lat: -30.753139, Lon: 115.536004 | 72.06m
+IMMSA - Santa Eulalia | Lat: 28.603498, Lon: -105.816479 | 1234.16m
+Impumelelo | Lat: -26.640736, Lon: 28.885431 | 1550.33m
+Impunzi | Lat: -26.108148, Lon: 29.231264 | 1543.99m
+Inaglinskiy | Lat: 56.962457, Lon: 124.780759 | 892.74m
+Indiana Harbor | Lat: 41.654912, Lon: -87.449049 | 147.0m
+Integra Coal | Lat: -32.464741, Lon: 151.130737 | 87.34m
+Inyanda | Lat: -25.774464, Lon: 29.227063 | 1549.03m
+Ipatinga | Lat: -19.486450, Lon: -42.543986 | 251.37m
+Iron Valley | Lat: -22.715598, Lon: 119.328027 | 805.4m
+ISAL | Lat: 64.046306, Lon: -22.033014 | 4.24m
+Ishihuinca | Lat: -15.807464, Lon: -73.396702 | 1893.88m
+Isibonelo | Lat: -26.435054, Lon: 29.210263 | 1598.85m
+Itabira | Lat: -19.600876, Lon: -43.218155 | 744.07m
+Itatiaiucu | Lat: -20.165713, Lon: -44.450055 | 1024.94m
+Itmann No. 5 Mine | Lat: 37.573586, Lon: -81.417623 | 668.8m
+Jabal Sayid | Lat: 23.851028, Lon: 40.942250 | 922.09m
+Jacinth-Ambrosia | Lat: -30.908041, Lon: 132.222645 | 107.94m
+Jaurdi | Lat: -30.726360, Lon: 120.939498 | 449.31m
+Jerritt Canyon | Lat: 41.407595, Lon: -115.905483 | 1864.79m
+Jimblebar | Lat: -23.369192, Lon: 120.061928 | 529.44m
+Joao Monlevade | Lat: -19.828292, Lon: -43.129005 | 683.94m
+Jones Fork Complex | Lat: 37.432385, Lon: -82.875603 | 274.86m
+Jundee | Lat: -26.358560, Lon: 120.619935 | 568.26m
+Jupiter | Lat: 37.941263, Lon: -81.687165 | 449.84m
+Juruti | Lat: -2.169973, Lon: -56.097863 | 27.75m
+Justice Energy | Lat: 37.503664, Lon: -81.486029 | 476.16m
+Kabanga | Lat: -2.890192, Lon: 30.541259 | 1624.75m
+Kachkanar GOK | Lat: 58.756583, Lon: 59.506246 | 334.81m
+Kalgoorlie | Lat: -30.777633, Lon: 121.505596 | 386.44m
+Kalgoorlie Smelter | Lat: -30.872768, Lon: 121.485955 | 381.48m
+Kanawha Eagle | Lat: 38.158298, Lon: -81.554124 | 351.97m
+Kangala | Lat: -26.187449, Lon: 28.671985 | 1580.28m
+Kangalassky | Lat: 62.351460, Lon: 129.953809 | 110.74m
+Kanowna Belle | Lat: -30.604925, Lon: 121.576084 | 380.36m
+Karagaylinskoye | Lat: 54.139189, Lon: 86.598262 | 274.97m
+Karakansky-South | Lat: 54.335544, Lon: 86.826050 | 308.17m
+Karouni | Lat: 5.449733, Lon: -58.760099 | 70.62m
+Kayad | Lat: 26.535460, Lon: 74.692239 | 362.25m
+Kelian | Lat: -0.040833, Lon: 115.437974 | 127.41m
+Kemmerer | Lat: 41.725888, Lon: -110.614272 | 2424.3m
+Kensington | Lat: 58.849360, Lon: -135.057135 | 611.93m
+Keystone | Lat: 37.449404, Lon: -81.436200 | 734.42m
+Khutala | Lat: -26.123808, Lon: 29.004003 | 1622.55m
+Khwezela | Lat: -26.049624, Lon: 29.236438 | 1537.42m
+Kia-Shaltyr | Lat: 55.038586, Lon: 88.471295 | 670.19m
+Kideco | Lat: -1.926560, Lon: 115.865002 | 69.69m
+KIM BLOK | Lat: -1.408611, Lon: 101.725659 | 150.94m
+Kindia | Lat: 9.882891, Lon: -13.131585 | 679.52m
+Kintap | Lat: -3.861125, Lon: 115.186892 | -7.0m
+Kiselevsky | Lat: 54.030791, Lon: 86.639414 | 303.75m
+Klipspruit | Lat: -26.052754, Lon: 29.033432 | 1579.5m
+Kloof | Lat: -26.402411, Lon: 27.660550 | 1624.28m
+Knott County mines | Lat: 37.321494, Lon: -82.802833 | 295.59m
+Koolan Island | Lat: -16.131541, Lon: 123.757360 | 116.45m
+Koolyanobbing | Lat: -30.823879, Lon: 119.519238 | 348.87m
+Koornfontein | Lat: -26.093899, Lon: 29.444992 | 1613.4m
+Kopanang | Lat: -26.983194, Lon: 26.744955 | 1309.16m
+Kostromovskaya | Lat: 54.598096, Lon: 86.059406 | 200.69m
+Krasnogorsky | Lat: 53.628359, Lon: 87.954109 | 386.65m
+Kriel | Lat: -26.207664, Lon: 29.166425 | 1581.81m
+Kroondal | Lat: -25.713563, Lon: 27.319592 | 1601.65m
+Kundana | Lat: -30.699491, Lon: 121.233817 | 362.84m
+Kupol | Lat: 66.786835, Lon: 169.556637 | 463.51m
+Kuprinsky | Lat: 54.242015, Lon: 86.865881 | 318.44m
+Kuzbassrazrezugol | Lat: 55.553320, Lon: 86.092788 | 226.37m
+Kwinana Alumina Refinery | Lat: -32.189306, Lon: 115.782938 | 14.44m
+La Colorada | Lat: 28.804237, Lon: -110.573334 | 487.05m
+La India | Lat: 28.705866, Lon: -108.889946 | 1317.96m
+La Perla | Lat: 28.314736, Lon: -104.559293 | 1517.43m
+Lake Erie Works | Lat: 42.821580, Lon: -80.088223 | 214.34m
+Lawlers | Lat: -28.079162, Lon: 120.510804 | 444.11m
+Leer | Lat: 39.346656, Lon: -79.950290 | 360.76m
+Leer South/Sentinel | Lat: 39.199827, Lon: -80.058490 | 422.09m
+Leeuwpan | Lat: -26.171270, Lon: 28.732743 | 1574.09m
+Leinster | Lat: -27.818568, Lon: 120.700983 | 435.39m
+Lennard Shelf | Lat: -18.320175, Lon: 125.778297 | 156.91m
+Lidell | Lat: -32.407798, Lon: 151.034415 | 111.24m
+Lista Aluminium Smelter | Lat: 58.073817, Lon: 6.786221 | 7.86m
+Listvyazhnaya | Lat: 54.520805, Lon: 86.395523 | 132.9m
+Logan County | Lat: 37.737110, Lon: -81.723222 | 468.51m
+Loma de Niquel | Lat: 10.151667, Lon: -67.137778 | 1259.83m
+Lone Mountain | Lat: 36.831110, Lon: -83.034176 | 486.86m
+Long Canyon | Lat: 41.009998, Lon: -114.497299 | 2035.41m
+Los Pelambres | Lat: -31.715691, Lon: -70.487484 | 3309.47m
+Loulo - Gounkoto | Lat: 13.033710, Lon: -11.392011 | 104.58m
+Lounge Lizard | Lat: -32.295384, Lon: 119.667075 | 425.34m
+Loveridge | Lat: 39.604819, Lon: -80.284243 | 346.65m
+Macraes | Lat: -45.359417, Lon: 170.428735 | 479.62m
+Mafube | Lat: -25.793926, Lon: 29.739064 | 1588.34m
+Mamahak | Lat: 0.461039, Lon: 115.408532 | 269.21m
+Manantial Espejo | Lat: -48.793000, Lon: -69.494000 | 350.49m
+Mandalong | Lat: -33.119643, Lon: 151.461839 | 14.31m
+Mangoola | Lat: -32.294837, Lon: 150.706081 | 193.77m
+Mantos Blancos | Lat: -23.442979, Lon: -70.074750 | 842.97m
+Mariana | Lat: -20.162741, Lon: -43.495619 | 1013.36m
+Martha | Lat: -48.692884, Lon: -69.701109 | 438.34m
+Matla | Lat: -26.257166, Lon: 29.118970 | 1606.58m
+Maules Creek | Lat: -30.562040, Lon: 150.124734 | 349.3m
+MC Mining Complex | Lat: 37.591674, Lon: -82.492765 | 188.95m
+McArthur River | Lat: -16.434456, Lon: 136.093658 | 41.45m
+Meigs | Lat: 39.069172, Lon: -82.238552 | 205.77m
+Merian | Lat: 5.124992, Lon: -54.549557 | 59.47m
+Merlin | Lat: -16.852470, Lon: 136.337872 | 141.53m
+MetCoal | Lat: -0.319707, Lon: 114.832429 | 85.24m
+Metropolitan | Lat: -34.186841, Lon: 150.993049 | 193.45m
+Mettiki Complex | Lat: 39.185892, Lon: -79.380452 | 990.03m
+Meyerton Metalloys Smelter | Lat: -26.580908, Lon: 27.992275 | 1472.18m
+Mezhdurechenskiy | Lat: 53.658481, Lon: 87.956381 | 359.85m
+Miaogou & Sanguikou | Lat: 41.132294, Lon: 107.096516 | 1383.11m
+MICARE Unit Mines Coahuila | Lat: 28.493397, Lon: -100.675156 | 302.59m
+Michilla | Lat: -22.722671, Lon: -70.281239 | 1122.64m
+Midas | Lat: 41.240460, Lon: -116.790662 | 1616.47m
+Middelburg/Wolvekrans | Lat: -25.998696, Lon: 29.341545 | 1553.15m
+Middleback Ranges | Lat: -32.744151, Lon: 137.135206 | 184.56m
+Midland Trail | Lat: 38.353630, Lon: -81.456392 | 322.45m
+Miguel Burnier | Lat: -20.438179, Lon: -43.771893 | 1150.68m
+Miles Branch | Lat: 37.207723, Lon: -81.560821 | 562.59m
+Mill Creek | Lat: 37.240148, Lon: -82.783427 | 426.14m
+Miller Creek Complex | Lat: 37.687467, Lon: -82.155372 | 282.37m
+Mimosa | Lat: -20.327907, Lon: 29.825327 | 1050.29m
+MIMOSA Unit Mines | Lat: 27.923467, Lon: -101.359690 | 422.24m
+Minas Centrais | Lat: -19.938222, Lon: -43.194359 | 783.23m
+Minas Itabirito | Lat: -20.422453, Lon: -43.855344 | 1110.6m
+Mine 84 | Lat: 40.142072, Lon: -80.177526 | 394.27m
+Ministro Hales | Lat: -22.381904, Lon: -68.910437 | 2396.09m
+Moab Khotsong | Lat: -26.987488, Lon: 26.802239 | 1328.43m
+Moatize | Lat: -16.160978, Lon: 33.799692 | 221.17m
+Modikwa | Lat: -24.640014, Lon: 30.128425 | 1109.7m
+Mogalakwena | Lat: -23.971409, Lon: 28.913987 | 1110.81m
+Moolarben | Lat: -32.281300, Lon: 149.763823 | 429.21m
+Morila | Lat: 11.680900, Lon: -6.846886 | 351.56m
+Morro da Mina | Lat: -20.633353, Lon: -43.769467 | 1161.37m
+Morro do Felipe | Lat: -0.894843, Lon: -52.376796 | 41.66m
+Morro Velho | Lat: -19.859417, Lon: -43.741911 | 1105.11m
+Mosjoen Aluminium Smelter | Lat: 65.849215, Lon: 13.193472 | 580.07m
+Mototolo | Lat: -24.994282, Lon: 30.123090 | 1109.7m
+Mount Arthur | Lat: -32.322203, Lon: 150.865294 | 235.35m
+Mount Garnet | Lat: -17.676126, Lon: 145.114437 | 637.67m
+Mount Goldsworthy | Lat: -20.613828, Lon: 120.304281 | 218.25m
+Mount Keith | Lat: -27.209570, Lon: 120.556242 | 494.42m
+Mount Marion | Lat: -31.080878, Lon: 121.433796 | 386.3m
+Mount Monger | Lat: -31.014824, Lon: 121.923271 | 365.78m
+Mount Newman | Lat: -23.359087, Lon: 119.679359 | 474.96m
+Mount Thorley Warkworth | Lat: -32.615713, Lon: 151.098990 | 142.83m
+Mountain Laurel | Lat: 37.910140, Lon: -81.804673 | 364.12m
+Mponeng | Lat: -26.436935, Lon: 27.431574 | 1567.53m
+MRN Porto Trombetas | Lat: -1.676167, Lon: -56.414755 | 13.32m
+Mt Magnet | Lat: -28.027353, Lon: 117.816817 | 480.36m
+Mt Muro | Lat: -0.012222, Lon: 114.000000 | 371.91m
+Mt Owen/Glendell | Lat: -32.412398, Lon: 151.091640 | 112.85m
+Mt Sterling | Lat: 37.751943, Lon: -82.340621 | 335.83m
+Mulia/Jumbang | Lat: -3.878691, Lon: 115.109506 | -6.0m
+Murowa | Lat: -20.498214, Lon: 30.403957 | 1058.98m
+Musselwhite | Lat: 52.611544, Lon: -90.366325 | 256.68m
+Muswellbrook | Lat: -32.251145, Lon: 150.944762 | 219.55m
+Myuna | Lat: -33.063457, Lon: 151.569115 | 30.05m
+Namakwa Sands | Lat: -31.272544, Lon: 17.902499 | 46.08m
+Namakwa Sands Smelter | Lat: -32.964732, Lon: 18.044387 | 29.3m
+Narrabri | Lat: -30.519419, Lon: 149.895207 | 277.83m
+Navachab | Lat: -21.983841, Lon: 15.765853 | 1204.36m
+Neryungrinsky | Lat: 56.713362, Lon: 124.596488 | 999.26m
+New Clydesdale | Lat: -26.135608, Lon: 29.316250 | 1564.96m
+New Denmark | Lat: -26.740708, Lon: 29.353190 | 1588.07m
+New Vaal | Lat: -26.730031, Lon: 27.960925 | 1476.08m
+Neyveli I | Lat: 11.572318, Lon: 79.504101 | 39.27m
+Neyveli IA | Lat: 11.570723, Lon: 79.526183 | 35.93m
+Neyveli II | Lat: 11.520862, Lon: 79.476057 | 51.46m
+Nickel West Kwinana refinery | Lat: -32.253179, Lon: 115.768190 | 5.27m
+Nikkelverk | Lat: 58.138424, Lon: 7.971501 | 26.01m
+Nkomati | Lat: -25.723441, Lon: 30.593748 | 1612.67m
+Nooitgedacht | Lat: -25.741105, Lon: 29.791624 | 1619.05m
+Nordenhamer Zinkhuette | Lat: 53.506784, Lon: 8.510069 | -1.11m
+Nornickel Kola Peninsula | Lat: 69.406943, Lon: 30.791319 | 229.34m
+North Antelope Rochelle | Lat: 43.530668, Lon: -105.283292 | 1412.74m
+North Block Complex | Lat: -25.692598, Lon: 30.014335 | 1612.67m
+North Eastern Coalfields | Lat: 27.268225, Lon: 95.724403 | 464.15m
+North Mara | Lat: -1.467039, Lon: 34.510612 | 1284.64m
+Northern Star Kalgoorlie Operations | Lat: -30.706880, Lon: 121.223973 | 375.18m
+Northparkes | Lat: -32.937806, Lon: 148.063662 | 311.83m
+Novokuznetsk Aluminium Smelter | Lat: 53.776640, Lon: 87.242578 | 190.69m
+Nueva Rosita Complex | Lat: 27.921501, Lon: -101.224976 | 399.37m
+Odda | Lat: 60.092997, Lon: 6.532499 | 8.75m
+Oktyabrskaya | Lat: 54.573816, Lon: 86.257420 | 193.99m
+Olympic Dam | Lat: -30.446428, Lon: 136.870109 | 103.32m
+Olzherassky | Lat: 53.833777, Lon: 88.136632 | 339.15m
+Ombilin | Lat: -0.629487, Lon: 100.755585 | 1900.91m
+Onca Puma | Lat: -6.574276, Lon: -51.092391 | 567.03m
+Optimum | Lat: -26.005851, Lon: 29.612249 | 1606.24m
+Orcopampa | Lat: -15.277190, Lon: -72.334200 | 3801.7m
+Ouro Preto Ferroalloys plant | Lat: -20.419622, Lon: -43.551363 | 1311.37m
+Oyu Tolgoi | Lat: 43.025420, Lon: 106.866503 | 1159.01m
+Paddington | Lat: -30.491802, Lon: 121.351032 | 374.74m
+Paint Creek | Lat: 38.069393, Lon: -81.453085 | 307.72m
+Palmarejo | Lat: 27.391175, Lon: -108.408276 | 1228.22m
+Pampa Norte | Lat: -22.791948, Lon: -69.266474 | 1721.61m
+Panther | Lat: 36.946149, Lon: -83.001202 | 609.33m
+Pantnagar | Lat: 29.035793, Lon: 79.395846 | 225.53m
+Paragominas | Lat: -3.264917, Lon: -47.734172 | 112.68m
+Paranam | Lat: 5.593836, Lon: -55.102544 | -2.0m
+Paraopeba | Lat: -20.094008, Lon: -44.095100 | 1280.81m
+Pattiki Complex | Lat: 38.067154, Lon: -88.096981 | 118.59m
+Paulsens | Lat: -22.580182, Lon: 116.242811 | 172.89m
+PBS Coal | Lat: 40.073417, Lon: -78.805638 | 763.57m
+Pennsylvania Mining Complex | Lat: 39.973380, Lon: -80.412464 | 404.1m
+Peranap | Lat: -0.607651, Lon: 101.911981 | 80.3m
+Pering | Lat: -27.432689, Lon: 24.270210 | 1423.15m
+Pervomaysky | Lat: 54.269451, Lon: 86.885540 | 312.14m
+Petorca | Lat: -32.214371, Lon: -70.869432 | 1612.1m
+Phil's Creek | Lat: -22.769008, Lon: 119.228221 | 655.28m
+Pinjarra Alumina Refinery | Lat: -32.632511, Lon: 115.974517 | 232.21m
+Pinnacle Complex | Lat: 37.547254, Lon: -81.496112 | 395.14m
+Pinos Altos | Lat: 28.270556, Lon: -108.303056 | 2260.03m
+Platinum Mile | Lat: -25.648294, Lon: 27.317879 | 1601.65m
+Plutonic | Lat: -25.315710, Lon: 119.450735 | 593.84m
+Point Lisas | Lat: 10.403811, Lon: -61.482501 | 4.27m
+Polosukhinskaya | Lat: 53.921647, Lon: 87.324711 | 187.4m
+Pongkor and Cibaliung | Lat: -6.660010, Lon: 106.568215 | 386.9m
+Poondano | Lat: -20.453042, Lon: 118.834544 | 43.06m
+Poracota | Lat: -15.247445, Lon: -72.530421 | 4960.61m
+Presidente Vargas Steelworks | Lat: -22.512645, Lon: -44.113311 | 454.17m
+Princeton | Lat: 37.296922, Lon: -81.059866 | 741.68m
+Prokopyevsky | Lat: 53.945324, Lon: 86.629168 | 347.9m
+Prominent Hill | Lat: -29.729713, Lon: 135.564667 | 204.53m
+PT Adaro Indonesia | Lat: -2.306479, Lon: 115.505080 | 24.38m
+PT Adimitra Baratama Nusantara | Lat: -0.690176, Lon: 117.259964 | -21.0m
+PT Antang Gunung Meratus | Lat: -2.941437, Lon: 115.231565 | 45.51m
+PT Atlas Resources Tbk | Lat: -2.508104, Lon: 103.153792 | 48.93m
+PT Baramulti Suksessarana Tbk | Lat: -0.726150, Lon: 117.042742 | 32.16m
+PT Barasentosa Lestari | Lat: -2.608871, Lon: 103.223801 | 36.65m
+PT Bharinto Ekatama | Lat: -0.848944, Lon: 115.466683 | 110.33m
+PT Borneo Indobara | Lat: -3.584365, Lon: 115.648243 | -14.0m
+PT Gunungbayan Pratamacoal | Lat: -0.357246, Lon: 116.551311 | 76.76m
+PT Indominco Mandiri | Lat: 0.148330, Lon: 117.292379 | 84.58m
+PT Indomining | Lat: -0.676697, Lon: 117.262264 | -21.0m
+PT Insani Baraperkasa | Lat: -0.440813, Lon: 117.091045 | 19.59m
+PT Internasional Prima Coal | Lat: -0.641213, Lon: 117.185951 | -8.0m
+PT Jorong Barutama Greston | Lat: -3.903117, Lon: 114.993104 | 2.95m
+PT Kitadin | Lat: -0.320964, Lon: 117.086556 | 16.13m
+PT Mahakam Sumber Jaya | Lat: -0.187140, Lon: 117.232466 | 74.3m
+PT Multi Tambangjaya Utama | Lat: -1.638303, Lon: 115.214995 | 42.93m
+PT Mustika Indah Permai | Lat: -3.799678, Lon: 103.407000 | 499.48m
+PT Santan Batubara | Lat: -0.064842, Lon: 117.297318 | 106.31m
+PT Smelting | Lat: -7.140553, Lon: 112.635945 | 6.55m
+PT Triaryani | Lat: -2.487535, Lon: 103.120545 | 68.04m
+PT Trisensa Mineral Utama | Lat: -0.698204, Lon: 117.122078 | 3.79m
+PT Trubaindo Coal Mining | Lat: -0.549411, Lon: 115.706545 | 93.21m
+PT Tuah Turangga Agung | Lat: -0.989287, Lon: 114.417412 | 95.78m
+Puna | Lat: -22.694392, Lon: -66.497506 | 4067.02m
+Punitaqui | Lat: -30.858486, Lon: -71.225753 | 846.82m
+Quebrada Blanca | Lat: -21.003939, Lon: -68.801226 | 4177.46m
+Quellaveco | Lat: -17.101969, Lon: -70.612130 | 3637.13m
+Rampura Agucha | Lat: 25.831140, Lon: 74.741724 | 364.82m
+Ras Al Khair Refinery | Lat: 27.520024, Lon: 49.170602 | -10.0m
+Raspadskaya | Lat: 53.776456, Lon: 88.089960 | 317.8m
+Raven | Lat: 37.384136, Lon: -82.823198 | 303.03m
+Ravensworth Complex | Lat: -32.444346, Lon: 151.028147 | 77.97m
+Rawhide Coal | Lat: 44.406063, Lon: -105.459396 | 1291.11m
+Red Dog | Lat: 68.075556, Lon: -162.856111 | 280.79m
+Reko Diq | Lat: 28.971916, Lon: 62.433028 | 882.0m
+Remington | Lat: 38.083116, Lon: -81.512523 | 390.4m
+Riestpruit | Lat: -26.133750, Lon: 29.205240 | 1579.35m
+Rio Capim | Lat: -2.826035, Lon: -47.894327 | 42.96m
+Rio Tuba | Lat: 8.570001, Lon: 117.418187 | -46.0m
+Riola/Vermilion Grove | Lat: 39.934784, Lon: -87.657004 | 204.8m
+River View Complex | Lat: 37.742983, Lon: -87.887950 | 117.81m
+Riverdale | Lat: 41.653317, Lon: -87.634825 | 168.0m
+Robe River | Lat: -21.759209, Lon: 116.248776 | 317.12m
+Robinson Run | Lat: 39.405551, Lon: -80.330125 | 354.33m
+Rocklick | Lat: 37.867222, Lon: -81.637742 | 455.96m
+Rössing | Lat: -22.479013, Lon: 15.048008 | 551.67m
+Rustenburg | Lat: -25.671381, Lon: 27.328298 | 1587.16m
+Sadiola | Lat: 13.869528, Lon: -11.647074 | 193.02m
+Sakura Ferroalloys | Lat: 3.544908, Lon: 113.351307 | -55.0m
+Salek | Lat: 54.182769, Lon: 87.038016 | 307.62m
+Salobo | Lat: -5.789411, Lon: -50.535309 | 588.83m
+Salvador | Lat: -26.282513, Lon: -69.596941 | 2341.31m
+Samarco | Lat: -20.201033, Lon: -43.492202 | 1029.08m
+San Bartolome | Lat: -19.631651, Lon: -65.735498 | 3521.96m
+San Ciprian Refinery | Lat: 43.696782, Lon: -7.471175 | -143.68m
+San Juan de Nieva | Lat: 43.591032, Lon: -5.931146 | -2180.0m
+San Miguel | Lat: 28.687363, Lon: -98.476217 | 121.64m
+San Vicente | Lat: -21.268716, Lon: -66.317048 | 4520.55m
+Sandstone | Lat: -28.068067, Lon: 119.233660 | 516.0m
+Santo Domingo | Lat: -26.467385, Lon: -70.007462 | 1204.31m
+Sao Francisco | Lat: -14.848273, Lon: -59.652968 | 218.49m
+Sao Luis Iron Ore Pellet Operation | Lat: -2.565522, Lon: -44.345464 | 29.73m
+Sasol Sigma | Lat: -26.942045, Lon: 27.729615 | 1458.4m
+Satui | Lat: -3.731742, Lon: 115.315515 | -8.0m
+Savuka | Lat: -26.422493, Lon: 27.403073 | 1630.74m
+Sebree | Lat: 37.658715, Lon: -87.502799 | 118.18m
+Sebree - Onton Complex | Lat: 37.581975, Lon: -87.479920 | 116.51m
+Selbaie | Lat: 49.807637, Lon: -78.949190 | 180.55m
+Senakin | Lat: -2.933462, Lon: 116.267189 | 3.34m
+Serra Azul | Lat: -20.133533, Lon: -44.398857 | 1050.37m
+Serra Leste | Lat: -5.970481, Lon: -49.628772 | 503.72m
+Serra Norte | Lat: -6.077085, Lon: -50.141686 | 639.12m
+Serra Sul | Lat: -6.392125, Lon: -50.310671 | 697.34m
+Seruyung | Lat: 3.897877, Lon: 117.229873 | 145.82m
+Sestao steel plant | Lat: 43.320101, Lon: -2.995305 | 10.03m
+Shahta No. 12 | Lat: 54.005608, Lon: 86.691037 | 335.63m
+Shatyrkul | Lat: 43.616634, Lon: 74.262200 | 923.91m
+Shengli Mines | Lat: 43.983227, Lon: 116.015218 | 955.79m
+Shestaki | Lat: 54.336726, Lon: 86.103979 | 225.75m
+Shila-Paula | Lat: -15.347198, Lon: -72.123243 | 4629.59m
+Shoemaker | Lat: 39.985616, Lon: -80.655665 | 360.99m
+Shondoni | Lat: -26.467015, Lon: 29.056645 | 1627.08m
+Shuiyindong | Lat: 25.384686, Lon: 105.628977 | 1738.46m
+Siana | Lat: 9.539296, Lon: 125.578096 | 26.31m
+Sibenergougol | Lat: 53.590942, Lon: 86.889991 | 325.25m
+Sibirginsky | Lat: 53.616066, Lon: 87.831303 | 394.28m
+Sierra Gorda | Lat: -22.877928, Lon: -69.360802 | 1557.6m
+Siguiri | Lat: 11.556830, Lon: -9.353169 | 335.14m
+Sinclair | Lat: -28.360595, Lon: 120.858031 | 419.47m
+Sino Iron | Lat: -21.080694, Lon: 116.154655 | 40.35m
+Sissingue | Lat: 10.431850, Lon: -6.183114 | 317.75m
+Sohar | Lat: 24.415896, Lon: 56.547601 | 69.17m
+Somerville | Lat: 38.290179, Lon: -87.366924 | 151.53m
+Soral | Lat: 59.866788, Lon: 5.771189 | 38.6m
+Sossego | Lat: -6.411722, Lon: -50.050100 | 217.65m
+South Kalgoorlie | Lat: -31.038630, Lon: 121.615260 | 348.11m
+Southern Cross | Lat: -30.966008, Lon: 119.138881 | 369.73m
+Southern Iron | Lat: -29.586333, Lon: 135.368022 | 188.79m
+Southstock | Lat: -26.159182, Lon: 29.146084 | 1593.34m
+Spinifex Ridge | Lat: -20.885489, Lon: 120.086673 | 196.85m
+Spitzkop | Lat: -26.357936, Lon: 29.971442 | 1793.14m
+Springvale | Lat: -33.404527, Lon: 150.106674 | 905.33m
+Steelton | Lat: 40.232756, Lon: -76.835519 | 97.18m
+Stratford Duralie | Lat: -32.302849, Lon: 151.941229 | 78.85m
+SUEK Kemerovo | Lat: 54.224819, Lon: 87.031373 | 265.49m
+SUEK Krasnoyarsk | Lat: 55.680762, Lon: 89.192267 | 226.07m
+Sukari | Lat: 24.944877, Lon: 34.714919 | 326.07m
+Sycamore and Imperial | Lat: 39.016256, Lon: -80.227578 | 491.78m
+Syferfontein | Lat: -26.409145, Lon: 29.203956 | 1600.85m
+Taca Taca | Lat: -24.588904, Lon: -67.749557 | 3468.69m
+Taganito | Lat: 9.535918, Lon: 125.817576 | -32.0m
+Taganito HPAL Nickel Corporation | Lat: 9.540178, Lon: 125.813480 | -33.0m
+Tahmoor | Lat: -34.249926, Lon: 150.578386 | 289.39m
+Taldybulak Levoberezhny | Lat: 42.683338, Lon: 75.667436 | 2117.83m
+Tallering Peak | Lat: -28.113349, Lon: 115.600329 | 285.99m
+Tambomayo | Lat: -15.469231, Lon: -71.915542 | 4762.47m
+Tanami | Lat: -20.544167, Lon: 130.334371 | 349.74m
+Tanjung Enim | Lat: -3.732900, Lon: 103.777511 | 217.65m
+Tasiast | Lat: 20.550151, Lon: -15.510972 | 143.42m
+Tau Lekoa | Lat: -26.998154, Lon: 26.616409 | 1302.93m
+TauTona | Lat: -26.415384, Lon: 27.430630 | 1658.96m
+Tayan | Lat: -0.060504, Lon: 110.141292 | 13.99m
+Teguh Sinarabadi and Firman Ketaun Perkasa | Lat: -0.381371, Lon: 115.792924 | 5.28m
+Thabazimbi | Lat: -24.607378, Lon: 27.389527 | 1065.33m
+Tia Maria | Lat: -17.013459, Lon: -71.768504 | 754.5m
+Tiwai Point | Lat: -46.587576, Lon: 168.384756 | -72.0m
+Tomago | Lat: -32.825168, Lon: 151.717989 | 37.87m
+Tomusinsky | Lat: 53.635503, Lon: 87.867550 | 434.06m
+Tongon | Lat: 9.937917, Lon: -5.705472 | 328.15m
+Toquepala | Lat: -17.252819, Lon: -70.603973 | 3441.68m
+Tres Valles | Lat: -31.722285, Lon: -71.009023 | 1030.67m
+Tritton | Lat: -31.397238, Lon: 146.722368 | 273.62m
+Tselentis | Lat: -26.264511, Lon: 30.029462 | 1736.33m
+Tuhup | Lat: -0.412231, Lon: 114.856208 | 133.74m
+Tulawaka | Lat: -3.203934, Lon: 31.529474 | 1206.19m
+Tunnel Ridge Complex | Lat: 40.154834, Lon: -80.659026 | 296.28m
+Tusky | Lat: 40.324368, Lon: -81.491137 | 275.64m
+Tuticorin | Lat: 8.821015, Lon: 78.080212 | 92.31m
+Tweefontein | Lat: -26.037662, Lon: 29.167777 | 1529.45m
+Twin Creeks Operation | Lat: 41.219959, Lon: -117.168068 | 1829.28m
+Twistdraai Thubelisha | Lat: -26.462332, Lon: 29.288249 | 1633.54m
+Two Rivers | Lat: -24.935207, Lon: 30.104568 | 1109.7m
+Ubuntu | Lat: -26.193602, Lon: 28.863406 | 1545.84m
+Ulan | Lat: -32.277841, Lon: 149.772768 | 428.58m
+United | Lat: -32.548362, Lon: 150.998348 | 269.49m
+Unki | Lat: -19.622660, Lon: 30.094857 | 991.12m
+V.I. Lenina | Lat: 53.702332, Lon: 88.073219 | 330.08m
+Vale Oman Pellet Operation | Lat: 24.506393, Lon: 56.591348 | -151.0m
+Vale Tubarao | Lat: -20.286303, Lon: -40.239407 | 8.87m
+Valesul | Lat: -22.899441, Lon: -43.651437 | 11.48m
+Vargem Grande | Lat: -20.090949, Lon: -43.944833 | 1182.54m
+Vergenoeg | Lat: -25.256941, Lon: 28.584204 | 1076.37m
+Viking | Lat: 38.666839, Lon: -86.998704 | 148.96m
+Vindex | Lat: 37.797612, Lon: -79.768902 | 758.08m
+Vinogradovsky | Lat: 54.396442, Lon: 86.827261 | 255.95m
+Viper | Lat: 39.971954, Lon: -89.530106 | 180.61m
+Wagerup Alumina Refinery | Lat: -32.904829, Lon: 115.919221 | 85.25m
+Wahana Baratama | Lat: -3.725395, Lon: 115.309852 | -9.0m
+Waihi | Lat: -37.386548, Lon: 175.842042 | -0.26m
+Wambo | Lat: -32.580517, Lon: 151.010544 | 280.72m
+Warrick Aluminium Smelter | Lat: 37.919205, Lon: -87.330532 | 116.97m
+Warrior Complex | Lat: 37.383893, Lon: -87.611866 | 126.64m
+Watagan | Lat: -32.467428, Lon: 151.081838 | 75.74m
+Wells | Lat: 37.939243, Lon: -81.683205 | 486.59m
+Werris Creek | Lat: -31.385378, Lon: 150.633356 | 432.35m
+West Wallsend | Lat: -32.936918, Lon: 151.577009 | 8.88m
+Western Allegheny | Lat: 40.520192, Lon: -79.321048 | 380.32m
+Westside | Lat: -32.948080, Lon: 151.573550 | 5.14m
+Wharf | Lat: 44.347103, Lon: -103.845811 | 1918.24m
+Whim Creek | Lat: -20.837897, Lon: 117.833916 | 79.16m
+Wild Boar | Lat: 38.178449, Lon: -87.279735 | 145.5m
+Wildcat Hills/Cottage Grove | Lat: 37.765394, Lon: -88.383315 | 133.2m
+Wilpinjong | Lat: -32.319412, Lon: 149.865463 | 382.2m
+Wiluna | Lat: -26.629213, Lon: 120.255726 | 550.67m
+Wodgina | Lat: -21.176001, Lon: 118.677108 | 209.25m
+Worsley | Lat: -33.241397, Lon: 116.074663 | 287.35m
+Yabulu | Lat: -19.205011, Lon: 146.612390 | 13.69m
+Yandi | Lat: -22.767476, Lon: 119.202604 | 789.14m
+Yatela | Lat: 14.084742, Lon: -11.754168 | 20.58m
+Yilgarn Project | Lat: -30.459828, Lon: 119.992439 | 468.81m
+Yuzhkuzbassugol | Lat: 53.417053, Lon: 87.354187 | 247.65m
+Yuzhnaya | Lat: 55.600266, Lon: 86.095390 | 226.37m
+Zafranal | Lat: -16.045942, Lon: -72.246918 | 2676.66m
+Zaldivar | Lat: -24.201034, Lon: -69.064661 | 3297.85m
+Zaragoza steel plant | Lat: 41.569458, Lon: -0.855299 | 525.83m
+Zenica steel plant | Lat: 44.230103, Lon: 17.899108 | 309.38m
+Zibulo | Lat: -26.200061, Lon: 29.017396 | 1619.99m
+Zincor | Lat: -26.313343, Lon: 28.479646 | 1589.21m
+Zinkgruvan | Lat: 58.816437, Lon: 15.103457 | 99.0m

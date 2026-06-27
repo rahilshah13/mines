@@ -1,0 +1,1435 @@
+777 | Lat: 54.774816, Lon: -101.879464 | Copper
+A Narrain | Lat: 14.223525, Lon: 76.208414 | Iron
+Absaloka | Lat: 45.805305, Lon: -107.082901 | Coal
+Abyz | No coordinates. | Gold
+Achinsk Alumina Refinery | Lat: 56.234643, Lon: 90.423973 | Processing
+Acindar | Lat: -33.339651, Lon: -60.195878 | Processing
+AGA Mineracao | Lat: -19.939170, Lon: -43.624954 | Gold
+Aguablanca | Lat: 37.965585, Lon: -6.180327 | Nickel
+Ahafo | Lat: 7.042639, Lon: -2.334172 | Gold
+AHMSA Monclova Steel Plant | Lat: 26.880873, Lon: -101.434504 | Processing
+Air Quality | Lat: 38.628058, Lon: -87.445879 | Coal
+Airly | Lat: -33.115251, Lon: 150.028607 | Coal
+Aitik | Lat: 67.075073, Lon: 20.963623 | Copper
+Akbastau | Lat: 48.626819, Lon: 77.705729 | Copper
+Aktogay | Lat: 46.952427, Lon: 79.931816 | Copper
+Akyem | Lat: 6.345645, Lon: -1.023141 | Gold
+Al Ba’itha | Lat: 27.671628, Lon: 43.986672 | Aluminium
+Alamo Dorado | Lat: 26.751935, Lon: -108.662618 | Silver
+Albras | Lat: -1.554160, Lon: -48.733735 | Processing
+Alexievskaya | Lat: 54.616447, Lon: 86.326374 | Coal
+Aljustrel | Lat: 37.876617, Lon: -8.153213 | Zinc
+Alma | Lat: 48.585524, Lon: -71.690843 | Processing
+Alouette | Lat: 50.160336, Lon: -66.437372 | Processing
+Alpamarca | Lat: -11.223415, Lon: -76.460971 | Silver
+Alpart | Lat: 17.967915, Lon: -77.608248 | Aluminium
+ALSCON Aluminium Smelter | Lat: 4.572290, Lon: 7.583047 | Processing
+Altar | Lat: -31.483951, Lon: -70.467269 | Other mine
+Altonorte | Lat: -23.823028, Lon: -70.314317 | Processing
+Alucam | Lat: 3.819185, Lon: 10.125405 | Processing
+Alumar | Lat: -2.705369, Lon: -44.332949 | Processing
+Alumbrera | Lat: -27.330637, Lon: -66.609062 | Copper
+Alunorte | Lat: -1.544991, Lon: -48.731595 | Processing
+Amandelbult | Lat: -24.784391, Lon: 27.349895 | Other (poly)-metallic
+Amapa | Lat: 0.822420, Lon: -51.869092 | Iron
+Ambatovy | Lat: -18.826559, Lon: 48.312245 | Nickel
+Amona | Lat: 15.527098, Lon: 73.994846 | Processing
+Amonate | Lat: 37.191008, Lon: -81.637237 | Coal
+Amurugol AO | Lat: 52.758104, Lon: 126.689234 | Coal
+AMVEST Fola Complex | Lat: 38.358663, Lon: -81.084090 | Coal
+AMVEST Terry Eagle Complex | Lat: 38.232806, Lon: -81.147364 | Coal
+Andina | Lat: -33.092020, Lon: -70.254899 | Copper
+Andorinhas | Lat: -7.460556, Lon: -49.816389 | Gold
+Andrade | Lat: -19.795128, Lon: -43.171528 | Iron
+Anglesey | Lat: 53.296915, Lon: -4.603107 | Processing
+Anglo American other coal mines South Africa | No coordinates. | Coal
+Angul Aluminium Smelter | Lat: 20.826407, Lon: 85.158681 | Processing
+Angus Place | Lat: -33.351538, Lon: 150.099689 | Coal
+Antamina | Lat: -9.565272, Lon: -77.036330 | Copper
+Antapaccay | Lat: -14.883244, Lon: -71.314831 | Copper
+Antapite | Lat: -13.973847, Lon: -75.071068 | Gold
+Antas | Lat: -6.240522, Lon: -49.752962 | Copper
+Antelope | Lat: 43.474572, Lon: -105.358442 | Coal
+Antonovskaya | Lat: 53.876412, Lon: 87.312122 | Coal
+Antucoya | Lat: -22.629118, Lon: -69.837417 | Copper
+Anyuan | No coordinates. | Coal
+Araxa | Lat: -19.841567, Lon: -46.850535 | Other mine
+Araxa CBBM | Lat: -19.665687, Lon: -46.909708 | Other mine
+ArcelorMittal Bremen | Lat: 53.142614, Lon: 8.693016 | Processing
+ArcelorMittal Cleveland | Lat: 41.464762, Lon: -81.665985 | Processing
+ArcelorMittal Duisburg steel plant | Lat: 51.464617, Lon: 6.743519 | Processing
+ArcelorMittal Gipuzkoa | Lat: 43.103927, Lon: -2.425795 | Processing
+ArcelorMittal Hamburg steel plant | Lat: 53.525051, Lon: 9.902624 | Processing
+ArcelorMittal Tubarao | Lat: -20.229159, Lon: -40.254368 | Processing
+ArcelorMittal Warszawa steel plant | Lat: 52.293609, Lon: 20.915290 | Processing
+Arch of West Virginia | No coordinates. | Coal
+Arch of Wyoming | No coordinates. | Coal
+Argyle | Lat: -16.720286, Lon: 128.385044 | Other mine
+Arnot | Lat: -25.929780, Lon: 29.774703 | Coal
+Artemyevsky | Lat: 50.600017, Lon: 81.782604 | Zinc
+Arvida | Lat: 48.429626, Lon: -71.164592 | Processing
+Asam-Asam | Lat: -3.874017, Lon: 115.106194 | Coal
+Ashele | Lat: 48.289677, Lon: 86.338548 | Copper
+Atansore | Lat: 52.709963, Lon: 71.509941 | Iron
+Atasu | Lat: 48.680666, Lon: 71.669211 | Iron
+Atlantic Copper | Lat: 37.227721, Lon: -6.949365 | Processing
+Aughinish Alumina | Lat: 52.628448, Lon: -9.060874 | Processing
+Australia Sands | Lat: -30.646932, Lon: 115.472719 | Iron
+Avdiivka Coke | Lat: 48.167447, Lon: 37.706761 | Processing
+Aviles and Gijon steel plant | Lat: 43.534217, Lon: -5.722956 | Processing
+Awaso | Lat: 6.227400, Lon: -2.277813 | Aluminium
+Azovstal | Lat: 47.107844, Lon: 37.615397 | Processing
+Azul | Lat: -6.104873, Lon: -50.299549 | Other (poly)-metallic
+Baal Bone | Lat: -33.270928, Lon: 150.057722 | Coal
+Bagdad | Lat: 34.584728, Lon: -113.211136 | Copper
+Baie Comeau Aluminium Smelter | Lat: 49.250576, Lon: -68.149312 | Processing
+Bakan | Lat: 0.625556, Lon: 124.361119 | Gold
+Balangan | Lat: -2.353946, Lon: 115.605336 | Coal
+Bald Mountain | Lat: 39.942805, Lon: -115.613658 | Gold
+Balkhash Smelter | Lat: 46.838408, Lon: 74.949954 | Processing
+Bangun Olahsarana Sukses | Lat: -0.421605, Lon: 115.913077 | Coal
+Bank | No coordinates. | Coal
+Bao Vista | No coordinates. | Other mine
+Baorixile Mines | Lat: 49.393697, Lon: 119.760051 | Coal
+Baotou Aluminum | No coordinates. | Processing
+Baotou Mines | Lat: 40.362111, Lon: 110.382722 | Coal
+Baralaba | Lat: -24.152210, Lon: 149.800795 | Coal
+Barbacena Ferroalloys plant | Lat: -21.200237, Lon: -43.815585 | Processing
+Barberton | Lat: -25.697430, Lon: 31.097423 | Gold
+Barneys Canyon | Lat: 40.593972, Lon: -112.134208 | Gold
+Barro Alto | Lat: -15.075627, Lon: -48.943620 | Nickel
+Barsingsar | Lat: 27.824432, Lon: 73.223460 | Coal
+Baruun Noyon Uul | Lat: 43.258334, Lon: 99.691425 | Coal
+Barzasskoye tovarischestvo | Lat: 55.721963, Lon: 86.024541 | Coal
+Batu Hijau | Lat: -8.967227, Lon: 116.858843 | Copper
+Batulicin | Lat: -3.389605, Lon: 116.000519 | Coal
+Bauxite Company of Guyana | Lat: 5.581762, Lon: -58.197752 | Aluminium
+Bayovar | Lat: -6.012184, Lon: -80.832195 | Other mine
+Bayside | Lat: -28.780826, Lon: 32.018351 | Processing
+Bear Run | Lat: 38.996744, Lon: -87.273242 | Coal
+Beatrix | Lat: -28.258483, Lon: 26.784440 | Gold
+Beauharnois | Lat: 45.309070, Lon: -73.892644 | Processing
+Becancour | Lat: 46.382446, Lon: -72.388157 | Processing
+Beckley | Lat: 37.779287, Lon: -81.263494 | Coal
+Beeshoek | Lat: -28.284537, Lon: 23.006341 | Iron
+Beisu | Lat: 35.352292, Lon: 116.899147 | Coal
+Belfast | Lat: -25.833958, Lon: 29.988723 | Coal
+Bell Bay | Lat: -41.128301, Lon: 146.870821 | Processing
+Belmont | No coordinates. | Coal
+Belousovsky | Lat: 50.129102, Lon: 82.497112 | Copper
+Beltana | Lat: -32.708413, Lon: 151.110148 | Coal
+Belval and Differdange steel plant | Lat: 49.529547, Lon: 5.905342 | Processing
+Bembele | No coordinates. | Other (poly)-metallic
+Benga | Lat: -16.151281, Lon: 33.660885 | Coal
+Bengalla | Lat: -32.289865, Lon: 150.804193 | Coal
+Berezovskaya | Lat: 55.601023, Lon: 86.243049 | Coal
+Berezovskiy | Lat: 53.729576, Lon: 86.797461 | Coal
+Bergsöe | Lat: 55.863189, Lon: 12.850784 | Processing
+Beulah | Lat: 47.198062, Lon: -101.838752 | Coal
+Bharat Coking Coal Limited | Lat: 23.765173, Lon: 86.340728 | Coal
+Bibiani | Lat: 6.464845, Lon: -2.325679 | Gold
+Big Mountain | Lat: 38.002378, Lon: -81.646899 | Coal
+Big Sky | Lat: 45.812677, Lon: -106.610039 | Coal
+Bingham Canyon | Lat: 40.522168, Lon: -112.149386 | Copper
+Binungan | Lat: 2.036731, Lon: 117.433097 | Coal
+Birch River | Lat: 38.469977, Lon: -80.642936 | Coal
+Birchtree | Lat: 55.701560, Lon: -97.927212 | Nickel
+Birdwell/Miller Creek | Lat: 39.029303, Lon: -87.070498 | Coal
+Black Mesa | Lat: 36.475870, Lon: -110.352096 | Coal
+Black Mountain | Lat: -29.259851, Lon: 18.802912 | Other (poly)-metallic
+Black Rock | Lat: -27.132777, Lon: 22.833699 | Other (poly)-metallic
+Black Thunder | Lat: 43.658233, Lon: -105.308910 | Coal
+Blacksville | Lat: 39.711191, Lon: -80.292852 | Coal
+Blackwater | Lat: -23.686871, Lon: 148.800355 | Coal
+Blair Athol | Lat: -22.697031, Lon: 147.547525 | Coal
+Bleomhoek | No coordinates. | Other mine
+Bloom Lake | Lat: 52.851247, Lon: -67.297348 | Iron
+Blue Ridge | No coordinates. | Other mine
+Bluegrass | No coordinates. | Coal
+Bocaina | Lat: -20.314645, Lon: -45.588868 | Other mine
+Bodai-Daldali | Lat: 22.415869, Lon: 81.186798 | Aluminium
+Boddington | Lat: -32.763610, Lon: 116.382645 | Gold
+Boffa | Lat: 10.180825, Lon: -14.039162 | Other mine
+Bogatyr | Lat: 51.650814, Lon: 75.426962 | Coal
+Boggabri | Lat: -30.610596, Lon: 150.171323 | Coal
+Bogoslovsk | Lat: 59.781265, Lon: 60.180472 | Processing
+Bokoni | Lat: -24.292792, Lon: 29.881615 | Other mine
+Bolivar | Lat: 27.094329, Lon: -107.989302 | Copper
+Bolshevik | Lat: 53.911788, Lon: 87.330750 | Coal
+Bonikro | Lat: 6.222223, Lon: -5.369627 | Gold
+Bosjesspruit | Lat: -26.711009, Lon: 29.172692 | Coal
+Boxitogorsk Alumina Refinery | Lat: 59.461760, Lon: 33.825334 | Processing
+Boyne Island | Lat: -23.924748, Lon: 151.338484 | Processing
+Bozshakol | Lat: 51.846988, Lon: 74.291371 | Copper
+Bozymchak | Lat: 41.258684, Lon: 71.064637 | Copper
+Bracemac-McLeod | Lat: 49.688419, Lon: -77.694497 | Zinc
+Brandspruit | Lat: -26.589246, Lon: 29.145684 | Coal
+Bratsk Aluminium Smelter | Lat: 56.128057, Lon: 101.450797 | Processing
+Breapampa | Lat: -15.076507, Lon: -73.669896 | Gold
+Broadlea | Lat: -21.854361, Lon: 148.172607 | Coal
+Broadmeadow | Lat: -21.823452, Lon: 147.980978 | Other mine
+Brocks Creek | Lat: -13.466557, Lon: 131.415973 | Other mine
+Broken Hill | Lat: -31.977088, Lon: 141.457827 | Silver
+BRPM | Lat: -25.465127, Lon: 27.099911 | Other mine
+Brunswick | Lat: 47.471331, Lon: -65.890479 | Zinc
+Bryansky | Lat: 54.331612, Lon: 86.867052 | Coal
+Buchanan | Lat: 37.213169, Lon: -81.898249 | Coal
+Buckingham | Lat: 39.578603, Lon: -82.068408 | Coal
+Buenavista | Lat: 30.985395, Lon: -110.317001 | Copper
+Bulga | Lat: -32.674413, Lon: 151.096614 | Coal
+Bulyanhulu | Lat: -3.228689, Lon: 32.483679 | Gold
+Burbanks | Lat: -31.375091, Lon: 121.488422 | Gold
+Burns Harbor | Lat: 41.622296, Lon: -87.116245 | Processing
+Burnstone | Lat: -26.651606, Lon: 28.672003 | Other mine
+Burton | Lat: -21.627275, Lon: 148.207459 | Coal
+Buruktal | Lat: 50.829800, Lon: 60.978602 | Nickel
+Buzwagi | Lat: -3.863998, Lon: 32.671022 | Gold
+Bwana | Lat: -13.019050, Lon: 28.666964 | Processing
+Bystrinsky GOK | Lat: 51.512118, Lon: 118.550421 | Copper
+Caballo | Lat: 44.115923, Lon: -105.339189 | Coal
+Cadia | Lat: -33.455686, Lon: 148.992199 | Gold
+Cadiz | Lat: 40.272194, Lon: -81.041364 | Coal
+Cagdianao | Lat: 10.163421, Lon: 125.668258 | Other (poly)-metallic
+Cairn Hill | Lat: -29.298058, Lon: 135.115711 | Iron
+Cajati | Lat: -24.709701, Lon: -48.128695 | Other mine
+Callide | Lat: -24.323770, Lon: 150.626227 | Coal
+Canadian Malartic | Lat: 48.111824, Lon: -78.131662 | Gold
+Candelaria | Lat: -27.515392, Lon: -70.285583 | Copper
+Cannington | Lat: -21.855915, Lon: 140.906955 | Silver
+CAP Acero | Lat: -36.750301, Lon: -73.125885 | Processing
+CAP Huasco Pellet Plant | Lat: -28.482417, Lon: -71.248979 | Processing
+Capcoal | Lat: -22.957402, Lon: 148.567583 | Coal
+Carbones del Guasare | Lat: 11.041552, Lon: -72.273166 | Coal
+Carborough Downs | Lat: -21.951265, Lon: 148.208020 | Coal
+Cardinal River | Lat: 52.932758, Lon: -117.307034 | Coal
+Carlin | Lat: 40.857502, Lon: -116.245009 | Gold
+Carlota | Lat: 33.384777, Lon: -110.989560 | Copper
+Carmen de Andacollo | Lat: -30.256716, Lon: -71.086290 | Copper
+Carosue Dam | Lat: -30.153572, Lon: 122.350958 | Gold
+Carrapateena | Lat: -31.239886, Lon: 137.492165 | Other mine
+Casa de Pedra | Lat: -20.486113, Lon: -43.896238 | Iron
+Casposo | Lat: -31.210804, Lon: -69.630009 | Gold
+Catalao | Lat: -18.146048, Lon: -47.800569 | Other (poly)-metallic
+Catalao Phosphate | Lat: -18.164115, Lon: -47.880825 | Other mine
+Cato Ridge | Lat: -29.716351, Lon: 30.618107 | Processing
+Caval Ridge | Lat: -22.156640, Lon: 148.058433 | Coal
+Cayeli | Lat: 41.039486, Lon: 40.765036 | Copper
+CBG Sangaredi | Lat: 11.079653, Lon: -13.786853 | Aluminium
+Cedynia Wire Rod Plant | Lat: 51.573563, Lon: 16.347508 | Processing
+CEMESA | Lat: 24.055539, Lon: -104.675140 | Iron
+Centinela | Lat: -22.953896, Lon: -69.128837 | Copper
+Central Coalfields Limited | Lat: 23.780125, Lon: 85.537477 | Coal
+Central GOK | Lat: 47.996511, Lon: 33.415407 | Iron
+Central Murchison Gold Project | Lat: -27.318154, Lon: 117.655500 | Gold
+Century | Lat: -18.734005, Lon: 138.619156 | Zinc
+Cerrejon | Lat: 11.132820, Lon: -72.624500 | Coal
+Cerro Bayo | Lat: -46.545331, Lon: -71.849629 | Gold
+Cerro de Pasco | Lat: -10.671734, Lon: -76.263945 | Zinc
+Cerro Matoso | Lat: 7.922526, Lon: -75.547895 | Nickel
+Cerro Moro | Lat: -48.130369, Lon: -66.653730 | Gold
+Cerro Negro | Lat: -46.872219, Lon: -70.220258 | Gold
+Cerro Negro Norte | Lat: -27.104107, Lon: -70.331382 | Iron
+Cerro Vanguardia | Lat: -48.384231, Lon: -68.262665 | Gold
+Cerro Verde | Lat: -16.538255, Lon: -71.578330 | Copper
+Chagres | Lat: -32.803492, Lon: -70.958809 | Processing
+Chaijiagou | No coordinates. | Coal
+Chain Valley | Lat: -33.162907, Lon: 151.549515 | Coal
+Chalco Chongqing Branch | No coordinates. | Processing
+Chalco Henan Branch | No coordinates. | Processing
+Chalco Qinghai Branch | No coordinates. | Processing
+Chalco Shandong Branch | No coordinates. | Processing
+Chalco Shanxi Other Mines | No coordinates. | Aluminium
+Chanderiya Smelter | Lat: 24.962556, Lon: 74.662682 | Processing
+Changgou | No coordinates. | Other (poly)-metallic
+Chapada | Lat: -18.144431, Lon: -47.823558 | Copper
+Chapadao | No coordinates. | Other mine
+Charbon | Lat: -32.893539, Lon: 149.981065 | Coal
+Cheremshansky | Lat: 54.367464, Lon: 86.904300 | Coal
+Cherepovets Steel | Lat: 59.144929, Lon: 37.804293 | Processing
+Chernigovets | Lat: 55.619568, Lon: 86.162245 | Coal
+Chibuluma South | Lat: -12.909486, Lon: 28.080078 | Copper
+Chifeng | Lat: 42.287749, Lon: 119.028527 | Processing
+China Coal Energy | No coordinates. | Coal
+Chino | Lat: 32.790887, Lon: -108.086258 | Copper
+Chirano | Lat: 6.311213, Lon: -2.382291 | Gold
+Chongli | Lat: 40.877206, Lon: 115.352737 | Gold
+Chotia | Lat: 22.796819, Lon: 82.471314 | Coal
+Chungar | Lat: -11.031318, Lon: -76.424492 | Zinc
+Cienega | Lat: 25.048710, Lon: -106.340701 | Gold
+Clairton Plant | Lat: 40.296670, Lon: -79.872987 | Processing
+Clarence | Lat: -33.464019, Lon: 150.247286 | Coal
+Clermont | Lat: -22.731689, Lon: 147.613516 | Coal
+Cliffs | Lat: -27.306884, Lon: 120.540913 | Other mine
+Cliffs Logan County Coal | Lat: 37.782254, Lon: -81.705914 | Coal
+Climax | Lat: 39.368664, Lon: -106.183166 | Other (poly)-metallic
+Coal Creek | Lat: 44.099893, Lon: -105.404719 | Coal
+Coal Valley | Lat: 53.070194, Lon: -116.788849 | Coal
+Coal‑Mac | Lat: 37.757959, Lon: -82.111902 | Coal
+Coatesville | Lat: 39.970427, Lon: -75.812691 | Processing
+Cobre Las Cruces | Lat: 37.496271, Lon: -6.104729 | Copper
+Cobre Panama | Lat: 8.843979, Lon: -80.654122 | Other mine
+Cockatoo Island | Lat: -16.093914, Lon: 123.609184 | Iron
+Codelco Norte | Lat: -22.253125, Lon: -68.891915 | Copper
+Codemin | Lat: -14.156771, Lon: -48.340014 | Nickel
+Coermotibo and Onverdacht | Lat: 5.581915, Lon: -54.712348 | Aluminium
+Coleman | Lat: 46.663431, Lon: -81.363199 | Nickel
+Collahuasi | Lat: -20.968392, Lon: -68.672774 | Copper
+Collingwood | Lat: -15.763496, Lon: 145.230090 | Other (poly)-metallic
+Collinsville | Lat: -20.564976, Lon: 147.749444 | Coal
+Colowyo | Lat: 40.241272, Lon: -107.829532 | Coal
+Colstrip | Lat: 45.874421, Lon: -106.775740 | Coal
+Conga | Lat: -6.929579, Lon: -78.379211 | Other mine
+Consolidated Murchison | Lat: -23.902234, Lon: 30.693605 | Gold
+Constancia | Lat: -14.463609, Lon: -71.794035 | Copper
+Contrecoeur steel plant | Lat: 45.841764, Lon: -73.249502 | Processing
+Cooke | Lat: -26.297840, Lon: 27.720386 | Gold
+Copebras | Lat: -18.145250, Lon: -47.822956 | Other mine
+Coppabella | Lat: -21.865151, Lon: 148.425903 | Coal
+Copper Cliff North | Lat: 46.492037, Lon: -81.067292 | Nickel
+Copper Cliff South | Lat: 46.459226, Lon: -81.080656 | Nickel
+COR Industri Indonesia | Lat: -1.939415, Lon: 121.321470 | Processing
+Coral Bay Nickel Corporation | Lat: 8.557308, Lon: 117.424679 | Processing
+Cordero Rojo | Lat: 44.033534, Lon: -105.331367 | Coal
+Corridor G | Lat: 38.124524, Lon: -81.891225 | Coal
+Cortez | Lat: 40.225773, Lon: -116.662591 | Gold
+Corumba | Lat: -19.206758, Lon: -57.580081 | Iron
+Cosmos | Lat: -27.590127, Lon: 120.581848 | Nickel
+Cowal | Lat: -33.640609, Lon: 147.399575 | Gold
+Coyote Creek | Lat: 47.169977, Lon: -101.871689 | Coal
+Cozamin | Lat: 22.800486, Lon: -102.576798 | Copper
+Cracow | Lat: -25.295076, Lon: 150.298710 | Gold
+Creighton | Lat: 46.473832, Lon: -81.188178 | Nickel
+Cripple Creek & Victor | Lat: 38.744538, Lon: -105.146628 | Gold
+CRL Queensland | No coordinates. | Iron
+CSA | Lat: -31.409105, Lon: 145.799881 | Copper
+Cuajone | Lat: -17.038403, Lon: -70.704952 | Copper
+Cubatao | Lat: -23.861373, Lon: -46.374494 | Processing
+Cumberland River | Lat: 36.970117, Lon: -82.741940 | Coal
+Cumnock | Lat: -32.407591, Lon: 151.058158 | Coal
+Curragh | Lat: -23.497410, Lon: 148.844833 | Coal
+Cusi | Lat: 28.244160, Lon: -106.837528 | Silver
+Damanjodi Refinery | Lat: 18.774267, Lon: 82.912876 | Processing
+Darby | Lat: 36.875595, Lon: -83.035559 | Coal
+Dariba Smelter | Lat: 24.962779, Lon: 74.121613 | Processing
+Darling Range Mines | Lat: -32.917528, Lon: 116.031296 | Aluminium
+Darlot | Lat: -27.896319, Lon: 121.272666 | Gold
+Dartbrook | Lat: -32.152931, Lon: 150.827038 | Coal
+Datong Coal Industry | Lat: 39.859641, Lon: 112.600514 | Coal
+Datun | Lat: 34.853368, Lon: 116.909329 | Coal
+Daunia | Lat: -22.060838, Lon: 148.297624 | Coal
+Dawson | Lat: -24.629531, Lon: 150.061578 | Coal
+Daxin | No coordinates. | Other (poly)-metallic
+De Bron Merriespruit | No coordinates. | Other mine
+Debari Smelter | Lat: 24.601198, Lon: 73.816272 | Processing
+Decker | Lat: 45.055867, Lon: -106.821155 | Coal
+Deerni | Lat: 34.198213, Lon: 100.695101 | Copper
+Deflector | Lat: -28.661411, Lon: 116.374346 | Gold
+DeGrussa | Lat: -25.539949, Lon: 119.322927 | Copper
+Delma | Lat: -26.264540, Lon: 28.831212 | Coal
+Denisovskiy | Lat: 56.774962, Lon: 124.845125 | Coal
+Deschambault Aluminium Smelter | Lat: 46.692787, Lon: -71.944984 | Processing
+Dian Dian | Lat: 10.893066, Lon: -14.228071 | Aluminium
+Diavik | Lat: 64.488290, Lon: -110.271629 | Other mine
+Didipio | Lat: 16.327030, Lon: 121.451490 | Gold
+Dilworth | Lat: 39.832474, Lon: -79.954167 | Coal
+Dodge Hill | Lat: 37.555517, Lon: -88.042484 | Coal
+Dofasco Hamilton | Lat: 43.260067, Lon: -79.812069 | Processing
+Dolomit | Lat: 53.289234, Lon: 39.150880 | Other mine
+Dolores | Lat: 28.989353, Lon: -108.536707 | Gold
+Dongpo | Lat: 39.421773, Lon: 112.402487 | Coal
+Donlin Creek | Lat: 62.039549, Lon: -158.212571 | Other mine
+Dotiki Complex | Lat: 37.453541, Lon: -87.773653 | Coal
+Drayton | Lat: -32.354978, Lon: 150.900863 | Coal
+DRDGOLD | No coordinates. | Other mine
+Driefontein | Lat: -26.390570, Lon: 27.489972 | Gold
+Drummond Cesar | Lat: 9.678668, Lon: -73.496516 | Coal
+DTEK Dobropolyeugol | Lat: 48.492108, Lon: 37.065993 | Coal
+DTEK Obukhovskaya | Lat: 48.049851, Lon: 40.308424 | Coal
+DTEK Pavlohradcoal | Lat: 48.540726, Lon: 36.058463 | Coal
+DTEK Rovenkyanthracite | Lat: 48.151444, Lon: 39.219755 | Coal
+DTEK Sverdlovanthracite | Lat: 48.058351, Lon: 39.696667 | Coal
+Duck Pond | Lat: 48.643991, Lon: -56.488776 | Copper
+Dugald River | Lat: -20.249549, Lon: 140.151902 | Zinc
+Dugout Canyon | Lat: 39.683083, Lon: -110.545099 | Coal
+Duketon | Lat: -27.781762, Lon: 122.334692 | Gold
+Dunkerque | Lat: 50.999484, Lon: 2.167468 | Processing
+Dunkirk steel plant | Lat: 51.040792, Lon: 2.295889 | Processing
+Duobaoshan | Lat: 50.133706, Lon: 125.794477 | Copper
+Durnacol | Lat: -28.057077, Lon: 30.013122 | Coal
+Dvoinoye | Lat: 67.638925, Lon: 169.205828 | Other mine
+Dwarsrivier | Lat: -24.936885, Lon: 30.127611 | Other (poly)-metallic
+Dynamic Energy | Lat: 37.497216, Lon: -81.454578 | Coal
+Dzhebariki-Khaya | Lat: 62.195847, Lon: 135.872546 | Coal
+Eagle | Lat: 46.742939, Lon: -87.880338 | Nickel
+Eagle Pass | Lat: 28.813636, Lon: -100.459384 | Coal
+East Boulder | Lat: 45.502628, Lon: -110.085632 | Other mine
+Eastern Coalfields Limited | Lat: 23.844998, Lon: 87.058781 | Coal
+Edgar Thomson Plant | Lat: 40.397180, Lon: -79.863702 | Processing
+Edikan | Lat: 5.962441, Lon: -1.933145 | Gold
+Edna May | Lat: -31.285881, Lon: 118.694946 | Gold
+Eisenhüttenstadt steel plant | Lat: 52.162544, Lon: 14.631428 | Processing
+Ekati | Lat: 64.716030, Lon: -110.618382 | Other mine
+El Abra | Lat: -21.921632, Lon: -68.833515 | Copper
+El Algarrobo | Lat: -28.812470, Lon: -70.988632 | Iron
+El Arco | Lat: 28.029179, Lon: -113.399424 | Other mine
+El Hatillo | Lat: 9.638629, Lon: -73.553081 | Coal
+El Penon | Lat: -24.411448, Lon: -69.496551 | Gold
+El Pilar | No coordinates. | Other mine
+El Romeral | Lat: -29.721705, Lon: -71.233352 | Iron
+El Sauzal | Lat: 26.997556, Lon: -107.889334 | Gold
+El Segundo/Lee Ranch | Lat: 35.148060, Lon: -107.846975 | Coal
+El Soldado | Lat: -32.652094, Lon: -71.164889 | Copper
+El Teniente | Lat: -34.087365, Lon: -70.456652 | Copper
+El Volcan | Lat: 27.740724, Lon: -109.305456 | Iron
+Elang | Lat: -8.965226, Lon: 117.384107 | Other mine
+Electrosteel Steels Limited | Lat: 23.634900, Lon: 86.305590 | Processing
+Eleonore | Lat: 52.706088, Lon: -76.067833 | Gold
+Elgaugol | Lat: 56.198780, Lon: 130.418056 | Coal
+Ellen | Lat: 46.427798, Lon: -81.351722 | Nickel
+Emery | Lat: 38.843956, Lon: -111.221784 | Coal
+Empire | Lat: 46.447969, Lon: -87.608678 | Iron
+Endeavor | Lat: -31.162619, Lon: 145.655204 | Silver
+Energy Resources of Australia | Lat: -12.683952, Lon: 132.912683 | Other (poly)-metallic
+Ensham | Lat: -23.476875, Lon: 148.525232 | Coal
+Ergo | Lat: -26.276474, Lon: 28.374370 | Gold
+Ernest Henry and Mount Isa | Lat: -20.170645, Lon: 142.350823 | Copper
+Escobal | Lat: 14.468898, Lon: -90.165130 | Silver
+Escondida | Lat: -24.270757, Lon: -69.071897 | Copper
+Eskay Creek | Lat: 56.653934, Lon: -130.429281 | Gold
+Estevan | Lat: 49.104014, Lon: -102.814737 | Coal
+Eurallumina | Lat: 39.209412, Lon: 8.399670 | Processing
+EVRAZ VGOK | Lat: 57.910652, Lon: 59.916015 | Iron
+Evrazruda | Lat: 52.941225, Lon: 87.734644 | Iron
+Extension Hill/Iron Hill | Lat: -29.570508, Lon: 117.148110 | Iron
+Exxaro Coal Central | Lat: -26.184297, Lon: 29.518364 | Coal
+Fabrica | Lat: -20.181017, Lon: -43.880841 | Processing
+Fairfield Works | Lat: 33.483981, Lon: -86.923763 | Processing
+Falcondo | Lat: 18.929576, Lon: -70.354324 | Nickel
+Falkirk | Lat: 47.402061, Lon: -101.146034 | Coal
+Farmersburg | Lat: 39.248651, Lon: -87.381963 | Coal
+Fazenda | Lat: -11.452829, Lon: -39.077736 | Gold
+Federal | Lat: 39.669997, Lon: -80.253253 | Coal
+Fernandinho | Lat: -20.183833, Lon: -43.859028 | Iron
+Ferrexpo Poltava Mining | Lat: 49.032327, Lon: 33.668635 | Iron
+Five Forks | Lat: 32.003850, Lon: -93.095541 | Coal
+Fjardaal Aluminium Smelter | Lat: 65.033548, Lon: -14.096807 | Processing
+Flint Ridge | Lat: 37.482376, Lon: -83.236439 | Coal
+FNI Cagdianao | Lat: 9.495076, Lon: 125.867516 | Nickel
+Fort Knox | Lat: 64.996860, Lon: -147.360785 | Other (poly)-metallic
+Fort Site | Lat: 53.719844, Lon: -113.189827 | Processing
+Fortaleza | Lat: -20.897598, Lon: -46.712042 | Nickel
+Fortescue Pilbara Region | Lat: -22.301578, Lon: 118.373680 | Iron
+Fortnum Gold Operations | Lat: -25.329329, Lon: 118.356257 | Gold
+Fos-sur-Mer steel plant | Lat: 43.437098, Lon: 4.877832 | Processing
+Foxleigh | Lat: -22.981441, Lon: 148.783101 | Coal
+Francisco | Lat: 38.337959, Lon: -87.433876 | Coal
+Franke | Lat: -25.836793, Lon: -69.856130 | Copper
+Freda-Rebecca | Lat: -17.297133, Lon: 31.308718 | Gold
+Freedom | Lat: 47.384856, Lon: -101.841830 | Coal
+Fresnillo | Lat: 23.162001, Lon: -102.872239 | Silver
+Friguia | Lat: 10.387486, Lon: -13.578314 | Aluminium
+Frontier | Lat: -12.741208, Lon: 28.483014 | Copper
+Fruta del Norte | Lat: -3.834197, Lon: -78.603979 | Other mine
+Fujairah Refinery | Lat: 25.193947, Lon: 56.354509 | Processing
+Fujian Makeng | No coordinates. | Iron
+Fushun Aluminum | No coordinates. | Processing
+Gabriela Mistral | Lat: -23.422881, Lon: -68.790356 | Copper
+Galati steel plant | Lat: 45.441787, Lon: 27.989247 | Processing
+Galena | Lat: 47.477912, Lon: -115.967384 | Silver
+Galmoy | Lat: 52.806303, Lon: -7.593839 | Zinc
+Gansu Hualu | No coordinates. | Processing
+Gaohe | Lat: 36.152414, Lon: 112.989923 | Coal
+Garpenberg | Lat: 60.325708, Lon: 16.224811 | Zinc
+Garson | Lat: 46.567757, Lon: -80.856972 | Nickel
+Gary Works | Lat: 41.609302, Lon: -87.333523 | Processing
+Gateway North | Lat: 38.186558, Lon: -89.622528 | Coal
+Geita | Lat: -2.867576, Lon: 32.186494 | Gold
+GEMCO | Lat: -13.975843, Lon: 136.443067 | Other mine
+Genesee | Lat: 53.348366, Lon: -114.289779 | Coal
+Gent steel plant | Lat: 51.182729, Lon: 3.824077 | Processing
+Georgetown | Lat: 33.368047, Lon: -79.292140 | Processing
+Gerdau Aconorte | Lat: -8.073968, Lon: -34.977026 | Processing
+Gerdau Barao de Cocais | Lat: -19.937301, Lon: -43.480088 | Processing
+Gerdau Cambridge | Lat: 43.371497, Lon: -80.280507 | Processing
+Gerdau Cartersville | Lat: 34.244853, Lon: -84.796991 | Processing
+Gerdau Cearense | Lat: -3.854267, Lon: -38.605432 | Processing
+Gerdau Charlotte | Lat: 35.340538, Lon: -80.827094 | Processing
+Gerdau Charqueadas | Lat: -29.952803, Lon: -51.616160 | Processing
+Gerdau Contagem | Lat: -19.962031, Lon: -44.023970 | Processing
+Gerdau Cosigua | Lat: -22.905327, Lon: -43.745672 | Processing
+Gerdau Divinopolis | Lat: -20.153202, Lon: -44.878179 | Processing
+Gerdau Fort Smith | Lat: 35.307523, Lon: -94.373576 | Processing
+Gerdau Guaira | Lat: -25.562890, Lon: -49.419434 | Processing
+Gerdau Jackson - Michigan | Lat: 42.202633, Lon: -84.364510 | Processing
+Gerdau Jackson - Tennessee | Lat: 35.727201, Lon: -88.806991 | Processing
+Gerdau Manitoba - MRM | Lat: 50.130500, Lon: -96.898972 | Processing
+Gerdau Midlothian | Lat: 32.462294, Lon: -97.027979 | Processing
+Gerdau Mogi das Cruzes | Lat: -23.524708, Lon: -46.157670 | Processing
+Gerdau Monroe | Lat: 41.894130, Lon: -83.359534 | Processing
+Gerdau Ouro Branco | Lat: -20.541310, Lon: -43.753073 | Processing
+Gerdau Petersburg | Lat: 37.187114, Lon: -77.449968 | Processing
+Gerdau Pindamonhangaba | Lat: -22.902637, Lon: -45.353175 | Processing
+Gerdau Riograndense | Lat: -29.814950, Lon: -51.175052 | Processing
+Gerdau Sao Paulo | Lat: -23.438400, Lon: -47.088284 | Processing
+Gerdau Sete Lagoas | Lat: -19.523321, Lon: -44.265651 | Processing
+Gerdau St. Paul | Lat: 44.893904, Lon: -93.010537 | Processing
+Gerdau Usiba | Lat: -12.851730, Lon: -38.428551 | Processing
+Gerdau Whitby | Lat: 43.855629, Lon: -78.910699 | Processing
+Gerdau Wilton | Lat: 41.586421, Lon: -91.039889 | Processing
+Gertrude | Lat: 46.458246, Lon: -81.210217 | Nickel
+Gibson Complex | Lat: 38.305699, Lon: -87.707787 | Coal
+Glogow metallurgical complex | Lat: 51.686719, Lon: 15.978105 | Processing
+Goedehoop | Lat: -26.047781, Lon: 29.490333 | Coal
+Goedgevonden | Lat: -26.090777, Lon: 29.075798 | Coal
+Golden Grove | Lat: -28.745323, Lon: 116.946342 | Copper
+Golden Sunlight | Lat: 45.903861, Lon: -112.010167 | Gold
+Goldex | Lat: 48.091634, Lon: -77.863086 | Gold
+Goldrush - Fourmile | Lat: 40.136700, Lon: -116.530760 | Other mine
+Goldstrike | Lat: 41.007460, Lon: -116.390783 | Gold
+Goonyella Riverside | Lat: -21.790180, Lon: 147.972560 | Coal
+Gosowong | Lat: 1.570999, Lon: 127.808769 | Gold
+Gove | Lat: -12.262842, Lon: 136.839624 | Aluminium
+Gramalote | No coordinates. | Other mine
+Grande-Baie | Lat: 48.306480, Lon: -70.929769 | Processing
+Granite City Works | Lat: 38.699156, Lon: -90.145555 | Processing
+Granny Smith | Lat: -28.810881, Lon: 122.420183 | Other mine
+Grasberg | Lat: -4.059700, Lon: 137.112585 | Copper
+Great Lakes Works | Lat: 42.257311, Lon: -83.136662 | Processing
+Great Noligwa | Lat: -26.959709, Lon: 26.785123 | Gold
+Greenbrier | Lat: 38.026151, Lon: -80.649032 | Coal
+Greens Creek | Lat: 58.082359, Lon: -134.639236 | Silver
+Greenside | Lat: -25.958266, Lon: 29.180219 | Coal
+Gregory | Lat: -23.180285, Lon: 148.356934 | Coal
+Griffin | Lat: -33.398910, Lon: 116.320451 | Coal
+Grootegeluk | Lat: -23.656537, Lon: 27.569235 | Coal
+Grosvenor | Lat: -21.974200, Lon: 148.011805 | Coal
+Gualcamayo | Lat: -29.697555, Lon: -68.628701 | Gold
+Guanaco and Amancaya | Lat: -25.108197, Lon: -69.522433 | Gold
+Guelb Moghrein | Lat: 19.753850, Lon: -14.417672 | Copper
+Guizhou | Lat: 26.726861, Lon: 106.574488 | Aluminium
+Guizhou Huajin Alumina | No coordinates. | Processing
+Guizhou Huaren Aluminium Smelter | No coordinates. | Processing
+Gunnedah | Lat: -30.811364, Lon: 150.188542 | Coal
+Gurimbang | No coordinates. | Other mine
+Guston Run | Lat: 39.689671, Lon: -80.060006 | Coal
+Hail Creek | Lat: -21.490253, Lon: 148.365723 | Coal
+Haile | Lat: 34.597729, Lon: -80.539238 | Gold
+Halls Creek | Lat: -18.408645, Lon: 127.356787 | Gold
+Hamersley - Channar | Lat: -23.301847, Lon: 117.779851 | Iron
+Hamersley - Eastern Range | Lat: -23.263437, Lon: 117.693051 | Iron
+Hamersley Mines | Lat: -22.630742, Lon: 117.852433 | Iron
+Hamilton Complex | Lat: 38.172777, Lon: -88.611503 | Coal
+Hamilton Works | Lat: 43.270290, Lon: -79.822405 | Processing
+Haquira | Lat: -14.165359, Lon: -72.357954 | Other mine
+Haridwar | Lat: 29.968031, Lon: 78.072494 | Processing
+Harjavalta | Lat: 61.316796, Lon: 22.126153 | Processing
+Haystack | Lat: 41.413133, Lon: -110.676760 | Other mine
+Hazard | Lat: 37.381832, Lon: -83.189067 | Coal
+Hebi Zhong Tai | No coordinates. | Coal
+Hemlo | Lat: 48.695889, Lon: -85.923944 | Gold
+Henderson | Lat: 39.769816, Lon: -105.837471 | Other (poly)-metallic
+Henty | Lat: -41.874718, Lon: 145.551147 | Other mine
+Hercules | Lat: 28.033364, Lon: -103.763675 | Iron
+Herradura | Lat: 31.147667, Lon: -112.861862 | Gold
+Hibbing | Lat: 47.479649, Lon: -92.957449 | Iron
+Hidden Valley | Lat: -7.458704, Lon: 146.672829 | Gold
+Higginsville Gold Operations | Lat: -31.731194, Lon: 121.721675 | Gold
+Highland | Lat: 37.735500, Lon: -87.777803 | Coal
+Highland Valley Copper | Lat: 50.486183, Lon: -121.042706 | Copper
+Highvale | Lat: 53.527788, Lon: -114.711148 | Coal
+Hillside | Lat: -28.766078, Lon: 32.035192 | Processing
+Hinatuan | Lat: 9.776895, Lon: 125.715406 | Other (poly)-metallic
+Hoedspruit | No coordinates. | Other mine
+Holt-McDermott | Lat: 48.513130, Lon: -79.740402 | Gold
+Hope Downs | Lat: -23.051598, Lon: 119.346044 | Iron
+Hopkins Complex | Lat: 38.926572, Lon: -107.446968 | Coal
+Hotazel | Lat: -27.249529, Lon: 22.922264 | Other mine
+Huaron | Lat: -11.005446, Lon: -76.411434 | Silver
+Huaxing | No coordinates. | Aluminium
+Humphrey | Lat: 39.675324, Lon: -79.987193 | Coal
+Hunedoara steel plant | Lat: 45.787297, Lon: 22.920476 | Processing
+Hunter Valley Operations | Lat: -32.447559, Lon: 150.978595 | Coal
+Huolinhe Holingol | Lat: 45.468289, Lon: 119.537986 | Coal
+Iduapriem | Lat: 5.242687, Lon: -2.043506 | Gold
+Illawarra | Lat: -34.473422, Lon: 150.741700 | Coal
+ILO | Lat: -17.497439, Lon: -71.360126 | Processing
+Iluka Florida/Georgia | No coordinates. | Iron
+Iluka Virginia | Lat: 36.622107, Lon: -77.635559 | Iron
+Iluka Western Australia | Lat: -30.744177, Lon: 115.274726 | Iron
+Ilyich Steel | Lat: 47.168002, Lon: 37.552917 | Processing
+IMMSA - Charcas | Lat: 23.134678, Lon: -101.151294 | Zinc
+IMMSA - San Martin | Lat: 23.663832, Lon: -103.746493 | Copper
+IMMSA - Santa Barbara | Lat: 26.819948, Lon: -105.816789 | Zinc
+IMMSA - Santa Eulalia | Lat: 28.603498, Lon: -105.816479 | Zinc
+IMMSA - Taxco | Lat: 19.167981, Lon: -99.589173 | Zinc
+Impumelelo | Lat: -26.640736, Lon: 28.885431 | Coal
+Impunzi | Lat: -26.108148, Lon: 29.231264 | Coal
+Inaglinskiy | Lat: 56.962457, Lon: 124.780759 | Coal
+Indiana Harbor | Lat: 41.654912, Lon: -87.449049 | Processing
+Ingulets GOK | Lat: 47.679979, Lon: 33.219699 | Iron
+Intalco Aluminium Smelter | Lat: 48.848469, Lon: -122.702509 | Processing
+Integra Coal | Lat: -32.464741, Lon: 151.130737 | Coal
+Inyanda | Lat: -25.774464, Lon: 29.227063 | Coal
+Ipatinga | Lat: -19.486450, Lon: -42.543986 | Processing
+Irbeysky | Lat: 55.726588, Lon: 95.313966 | Coal
+Irkutsk Aluminium Smelter | Lat: 52.191939, Lon: 104.085957 | Processing
+Iron Ore Company of Canada Labrador City | Lat: 52.951225, Lon: -66.896881 | Iron
+Iron Valley | Lat: -22.715598, Lon: 119.328027 | Iron
+Irtyshsky | Lat: 50.237385, Lon: 82.351582 | Copper
+Isaac Plains | Lat: -21.976719, Lon: 148.123810 | Coal
+ISAL | Lat: 64.046306, Lon: -22.033014 | Processing
+Ishihuinca | Lat: -15.807464, Lon: -73.396702 | Gold
+Isibonelo | Lat: -26.435054, Lon: 29.210263 | Coal
+Itabira | Lat: -19.628040, Lon: -43.239293 | Gold
+Itatiaiucu | Lat: -20.165713, Lon: -44.450055 | Iron
+Itmann No. 5 Mine | Lat: 37.573586, Lon: -81.417623 | Other mine
+Jabal Sayid | Lat: 23.851028, Lon: 40.942250 | Copper
+Jacinth-Ambrosia | Lat: -30.908041, Lon: 132.222645 | Iron
+Jacobina | Lat: -11.258324, Lon: -40.520218 | Gold
+Jamalco | Lat: 17.938640, Lon: -77.357626 | Aluminium
+Jaurdi | Lat: -30.726360, Lon: 120.939498 | Gold
+Jellinbah | Lat: -23.391075, Lon: 148.930713 | Coal
+Jerritt Canyon | Lat: 41.407595, Lon: -115.905483 | Gold
+Jewett | Lat: 31.422518, Lon: -96.248845 | Coal
+Jharsuguda Aluminium Smelter | Lat: 21.806113, Lon: 84.039556 | Processing
+Jiaozuo | No coordinates. | Aluminium
+Jiaozuo Wanfang | No coordinates. | Processing
+Jimblebar | Lat: -23.369192, Lon: 120.061928 | Iron
+Jingtieshan | Lat: 39.339186, Lon: 97.945901 | Other mine
+Jinzhong | No coordinates. | Gold
+Joao Monlevade | Lat: -19.828292, Lon: -43.129005 | Processing
+Jones Fork Complex | Lat: 37.432385, Lon: -82.875603 | Coal
+Jonquiere | Lat: 48.425950, Lon: -71.177461 | Processing
+Julcani | Lat: -12.939844, Lon: -74.804680 | Silver
+Julietta | Lat: 61.158579, Lon: 154.027442 | Other mine
+Jundee | Lat: -26.358560, Lon: 120.619935 | Gold
+Jupiter | Lat: 37.941263, Lon: -81.687165 | Other mine
+Juruti | Lat: -2.169973, Lon: -56.097863 | Aluminium
+Justice Energy | Lat: 37.503664, Lon: -81.486029 | Coal
+Kabanga | Lat: -2.890192, Lon: 30.541259 | Other mine
+Kachkanar GOK | Lat: 58.764772, Lon: 59.501728 | Iron
+Kalgoorlie | Lat: -30.762040, Lon: 121.493584 | Gold
+Kalgoorlie Smelter | Lat: -30.872768, Lon: 121.485955 | Processing
+Kanawha Eagle | Lat: 38.158298, Lon: -81.554124 | Coal
+Kandalaksha Aluminium Smelter | Lat: 67.195722, Lon: 32.434569 | Processing
+Kangala | Lat: -26.187449, Lon: 28.671985 | Coal
+Kangalassky | Lat: 62.351460, Lon: 129.953809 | Coal
+Kanowna Belle | Lat: -30.604925, Lon: 121.576084 | Gold
+Kansanshi | Lat: -12.091190, Lon: 26.433835 | Copper
+Karaganda | Lat: 49.769782, Lon: 72.754132 | Coal
+Karagaylinskoye | Lat: 54.139189, Lon: 86.598262 | Coal
+Karakansky-South | Lat: 54.335544, Lon: 86.826050 | Coal
+Karelsky Okatysh | Lat: 64.679487, Lon: 30.683021 | Iron
+Karouni | Lat: 5.449733, Lon: -58.760099 | Gold
+Katanga Mining Complex | Lat: -10.701253, Lon: 25.390961 | Copper
+Kayad | Lat: 26.535460, Lon: 74.692239 | Zinc
+Kayenta | Lat: 36.442686, Lon: -110.296515 | Coal
+Kazzinc | Lat: 50.350366, Lon: 80.071603 | Zinc
+Keetac | Lat: 47.412191, Lon: -93.067022 | Iron
+Kelian | Lat: -0.040833, Lon: 115.437974 | Gold
+Kemmerer | Lat: 41.725888, Lon: -110.614272 | Coal
+Kensington | Lat: 58.849360, Lon: -135.057135 | Gold
+Kentobe | Lat: 49.404230, Lon: 76.103649 | Iron
+Kestrel | Lat: -23.234955, Lon: 148.366531 | Coal
+Kettle River | Lat: 48.673505, Lon: -118.605584 | Gold
+Kevitsa | Lat: 67.694059, Lon: 26.928064 | Nickel
+Keystone | Lat: 37.449404, Lon: -81.436200 | Coal
+Khakas Aluminium Smelter | Lat: 53.199521, Lon: 91.452394 | Processing
+Khumani | Lat: -27.867322, Lon: 23.010188 | Iron
+Khutala | Lat: -26.123808, Lon: 29.004003 | Coal
+Khwezela | Lat: -25.984031, Lon: 29.201727 | Coal
+Kia-Shaltyr | Lat: 55.038586, Lon: 88.471295 | Other mine
+Kibali | Lat: 3.113750, Lon: 29.593222 | Gold
+Kidd | Lat: 48.690047, Lon: -81.373257 | Copper
+Kideco | Lat: -1.926560, Lon: 115.865002 | Coal
+Kijang | Lat: 1.084778, Lon: 104.484334 | Aluminium
+KIM BLOK | Lat: -1.408611, Lon: 101.725659 | Coal
+Kindia | Lat: 9.882891, Lon: -13.131585 | Aluminium
+Kinsenda | Lat: -12.248818, Lon: 27.970171 | Copper
+Kinsevere | Lat: -11.363377, Lon: 27.566500 | Copper
+Kintap | Lat: -3.861125, Lon: 115.186892 | Coal
+Kipoi | Lat: -11.249265, Lon: 27.100712 | Copper
+Kiruna | Lat: 67.841250, Lon: 20.180647 | Iron
+Kiselevsky | Lat: 54.030791, Lon: 86.639414 | Coal
+Kitimat | Lat: 54.002066, Lon: -128.696822 | Processing
+Kittila | Lat: 67.914508, Lon: 25.401837 | Gold
+Klipspruit | Lat: -26.052754, Lon: 29.033432 | Coal
+Kloof | Lat: -26.402411, Lon: 27.660550 | Gold
+KMAruda | Lat: 51.289823, Lon: 37.567103 | Iron
+Knott County mines | Lat: 37.321494, Lon: -82.802833 | Coal
+Kokkola | Lat: 63.861633, Lon: 23.057915 | Processing
+Kolomela | Lat: -28.380826, Lon: 22.963870 | Iron
+Kolwezi | Lat: -10.710986, Lon: 25.401657 | Copper
+Komsomolets Donbassa | Lat: 48.148249, Lon: 38.400405 | Coal
+Koniambo | Lat: -21.006657, Lon: 164.728596 | Nickel
+Koolan Island | Lat: -16.131541, Lon: 123.757360 | Iron
+Koolyanobbing | Lat: -30.823879, Lon: 119.519238 | Iron
+Koornfontein | Lat: -26.093899, Lon: 29.444992 | Coal
+Kopanang | Lat: -26.983194, Lon: 26.744955 | Gold
+Korba | Lat: 22.398916, Lon: 82.737822 | Processing
+Korshunov | Lat: 56.909728, Lon: 103.908115 | Iron
+Kosmurun | Lat: 48.606206, Lon: 77.788209 | Copper
+Kostromovskaya | Lat: 54.461401, Lon: 86.199558 | Coal
+Kounrad | Lat: 46.986982, Lon: 74.978704 | Copper
+Kovdorskiy GOK | Lat: 67.556291, Lon: 30.450419 | Iron
+Krasnodon Coal | Lat: 48.378124, Lon: 39.666411 | Coal
+Krasnogorsky | Lat: 53.628359, Lon: 87.954109 | Coal
+Krasnoyarsk Aluminium Smelter | Lat: 56.085171, Lon: 93.019788 | Processing
+Krasnoyarskkraiugol | Lat: 55.848211, Lon: 95.125699 | Coal
+Kriel | Lat: -26.207664, Lon: 29.166425 | Coal
+Kroondal | Lat: -25.713563, Lon: 27.319592 | Other (poly)-metallic
+Kryvyi Rih | Lat: 47.884326, Lon: 33.395290 | Iron
+KUBAL Aluminium Smelter | Lat: 62.377447, Lon: 17.365934 | Processing
+Kundana | Lat: -30.699491, Lon: 121.233817 | Gold
+Kupol | Lat: 66.786835, Lon: 169.556637 | Gold
+Kuprinsky | Lat: 54.242015, Lon: 86.865881 | Coal
+Kusheki | Lat: 50.267090, Lon: 73.392003 | Coal
+Kuzbassrazrezugol | Lat: 54.396429, Lon: 86.597547 | Coal
+Kwinana Alumina Refinery | Lat: -32.189306, Lon: 115.782938 | Processing
+Kylylahti | Lat: 62.859230, Lon: 29.337418 | Copper
+Kyzyl-Tash Turk | Lat: 52.045050, Lon: 96.002113 | Zinc
+KZN Sands | Lat: -28.725893, Lon: 31.874741 | Iron
+La Arena | Lat: -7.887717, Lon: -78.128456 | Gold
+La Caridad | Lat: 30.411436, Lon: -109.595620 | Copper
+La Coipa | Lat: -26.811755, Lon: -69.268403 | Gold
+La Colorada | Lat: 28.804237, Lon: -110.573334 | Silver
+La India | Lat: 28.705866, Lon: -108.889946 | Gold
+La Perla | Lat: 28.314736, Lon: -104.559293 | Other mine
+La Zanja | Lat: -6.835834, Lon: -78.888664 | Gold
+Lagunas Norte | Lat: -7.949750, Lon: -78.243583 | Gold
+Lake Erie Works | Lat: 42.821580, Lon: -80.088223 | Processing
+Lalor | Lat: 54.872623, Lon: -100.148842 | Zinc
+Lanjigarh Alumina Refinery | Lat: 19.712582, Lon: 83.400147 | Processing
+Lannemezan | No coordinates. | Processing
+Lanzhou Aluminum | No coordinates. | Processing
+Lapa | Lat: 48.229188, Lon: -78.283656 | Gold
+LaPlace | Lat: 30.036774, Lon: -90.464141 | Processing
+LaRonde Complex | Lat: 48.248460, Lon: -78.441627 | Gold
+Las Bambas | Lat: -14.089334, Lon: -72.335568 | Copper
+Las Truchas | Lat: 18.063128, Lon: -102.365054 | Iron
+Laterriere | Lat: 48.301768, Lon: -71.129823 | Processing
+Lati | Lat: 2.308770, Lon: 117.549526 | Coal
+Lawlers | Lat: -28.079162, Lon: 120.510804 | Gold
+Lazaro Cardenas steel plant | Lat: 17.940208, Lon: -102.208654 | Processing
+Lebedinsky GOK | Lat: 51.262647, Lon: 37.658622 | Iron
+Leer | Lat: 39.346656, Lon: -79.950290 | Coal
+Leer South/Sentinel | Lat: 39.199827, Lon: -80.058490 | Coal
+Leeuwpan | Lat: -26.171270, Lon: 28.732743 | Coal
+Legnica metallurgical complex | Lat: 51.187774, Lon: 16.121678 | Processing
+Leinster | Lat: -27.818568, Lon: 120.700983 | Other (poly)-metallic
+Lennard Shelf | Lat: -18.320175, Lon: 125.778297 | Zinc
+Leonora | Lat: -28.914252, Lon: 121.330379 | Gold
+Liancheng Branch | No coordinates. | Processing
+Liberty | Lat: 32.638875, Lon: -88.757435 | Coal
+Lidell | Lat: -32.407798, Lon: 151.034415 | Coal
+Lihir | Lat: -3.123610, Lon: 152.642081 | Gold
+Liliu | Lat: 37.386448, Lon: 110.882157 | Coal
+Line Creek | Lat: 49.952572, Lon: -114.754883 | Coal
+Lisakovsk | Lat: 52.535706, Lon: 62.542235 | Iron
+Lisheen | Lat: 52.749867, Lon: -7.680935 | Zinc
+Lista Aluminium Smelter | Lat: 58.073817, Lon: 6.786221 | Processing
+Listvyazhnaya | Lat: 54.520805, Lon: 86.395523 | Coal
+LKAB Southern Division | Lat: 67.414125, Lon: 20.869096 | Iron
+Lobo Marte | Lat: -27.177359, Lon: -69.028099 | Other mine
+Lochaber | Lat: 56.829227, Lon: -5.073121 | Processing
+Logan County | Lat: 37.737110, Lon: -81.723222 | Coal
+Loma de Niquel | Lat: 10.151667, Lon: -67.137778 | Nickel
+Lomas Bayas | Lat: -27.780023, Lon: -70.013893 | Copper
+Lone Mountain | Lat: 36.831110, Lon: -83.034176 | Coal
+Long Canyon | Lat: 41.009998, Lon: -114.497299 | Gold
+Longmen Aluminum | No coordinates. | Processing
+Longnan | Lat: 34.358802, Lon: 105.068747 | Gold
+Longyu | No coordinates. | Other mine
+Lonshi | Lat: -13.171514, Lon: 28.945758 | Other (poly)-metallic
+Los Bronces | Lat: -33.153746, Lon: -70.437748 | Copper
+Los Colorados | Lat: -28.303200, Lon: -70.814286 | Iron
+Los Filos | Lat: 17.890540, Lon: -99.676380 | Gold
+Los Pelambres | Lat: -31.715691, Lon: -70.487484 | Copper
+Loulo - Gounkoto | Lat: 12.995561, Lon: -11.396129 | Other mine
+Lounge Lizard | Lat: -32.295384, Lon: 119.667075 | Nickel
+Loveridge | Lat: 39.604819, Lon: -80.284243 | Coal
+Lubambe | Lat: -12.297004, Lon: 27.767665 | Copper
+Lubin | Lat: 51.435073, Lon: 16.158559 | Copper
+Luchegorsky | Lat: 46.465998, Lon: 134.238434 | Coal
+Lumwana | Lat: -12.238472, Lon: 25.822028 | Copper
+Luoyang | No coordinates. | Aluminium
+Luyuangou | No coordinates. | Gold
+Lynemouth | Lat: 55.201645, Lon: -1.539169 | Processing
+Macraes | Lat: -45.359417, Lon: 170.428735 | Gold
+Mafube | Lat: -25.793926, Lon: 29.739064 | Coal
+Mahanadi Coalfields Limited | Lat: 21.496442, Lon: 84.367377 | Coal
+Mahoning Valley | No coordinates. | Coal
+Mainpat | Lat: 22.832638, Lon: 83.296031 | Aluminium
+Mallay | Lat: -10.681316, Lon: -76.874788 | Silver
+Maly Kuybas | Lat: 53.423558, Lon: 59.120056 | Iron
+Mamahak | Lat: 0.461039, Lon: 115.408532 | Coal
+Manantial Espejo | Lat: -48.793000, Lon: -69.494000 | Gold
+Mandalong | Lat: -33.119643, Lon: 151.461839 | Coal
+Mangoola | Lat: -32.294837, Lon: 150.706081 | Coal
+Mantos Blancos | Lat: -23.442979, Lon: -70.074750 | Copper
+Mantoverde | Lat: -26.558138, Lon: -70.327087 | Copper
+Manzanillo | No coordinates. | Iron
+Marathon | Lat: 48.795305, Lon: -86.313793 | Other mine
+Marcapunta | Lat: -10.794217, Lon: -76.294377 | Copper
+Mariana | Lat: -20.190348, Lon: -43.467747 | Iron
+Maricunga | Lat: -27.551668, Lon: -69.297004 | Gold
+Marigold | Lat: 40.749573, Lon: -117.149101 | Gold
+Marlin | Lat: 15.233125, Lon: -91.691873 | Gold
+Marshall | Lat: 32.340035, Lon: -94.304160 | Coal
+Martabe | Lat: 1.512118, Lon: 99.064981 | Gold
+Martha | Lat: -48.692884, Lon: -69.701109 | Silver
+Massena West Aluminium Smelter | Lat: 44.962400, Lon: -74.892536 | Processing
+Matla | Lat: -26.257166, Lon: 29.118970 | Coal
+Maules Creek | Lat: -30.562040, Lon: 150.124734 | Coal
+MC Mining Complex | Lat: 37.591674, Lon: -82.492765 | Coal
+McArthur River | Lat: -16.434456, Lon: 136.093658 | Zinc
+Meadowbank Complex | Lat: 65.021599, Lon: -96.072647 | Gold
+Mega Centauro | Lat: 31.136073, Lon: -112.875002 | Other mine
+Meigs | Lat: 39.069172, Lon: -82.238552 | Coal
+Meliadine | Lat: 63.032856, Lon: -92.221350 | Gold
+Mercedes | Lat: 30.329545, Lon: -110.494584 | Gold
+Merian | Lat: 5.124992, Lon: -54.549557 | Gold
+Merlin | Lat: -16.852470, Lon: 136.337872 | Other mine
+MetCoal | Lat: -0.244260, Lon: 114.848354 | Coal
+Metropolitan | Lat: -34.186841, Lon: 150.993049 | Coal
+Mettiki Complex | Lat: 39.224992, Lon: -79.402993 | Coal
+Mexican IMMSA unit | No coordinates. | Zinc
+Meyerton Metalloys Smelter | Lat: -26.580908, Lon: 27.992275 | Processing
+Mezhdurechenskiy | Lat: 53.658481, Lon: 87.956381 | Coal
+Mezhegey | Lat: 51.388405, Lon: 94.117651 | Coal
+Miami | Lat: 33.410600, Lon: -110.846835 | Copper
+Mianchi | Lat: 34.821627, Lon: 111.628344 | Aluminium
+Miaogou & Sanguikou | Lat: 41.132294, Lon: 107.096516 | Zinc
+MICARE Unit Mines Coahuila | Lat: 28.493397, Lon: -100.675156 | Coal
+Michilla | Lat: -22.722671, Lon: -70.281239 | Copper
+Midas | Lat: 41.240460, Lon: -116.790662 | Other mine
+Middelburg/Wolvekrans | Lat: -25.998696, Lon: 29.341545 | Coal
+Middleback Ranges | Lat: -33.059930, Lon: 137.138068 | Iron
+Middlemount | Lat: -22.881358, Lon: 148.638597 | Coal
+Midland Trail | Lat: 38.353630, Lon: -81.456392 | Coal
+Miguel Burnier | Lat: -20.438179, Lon: -43.771893 | Iron
+Mikhailovsky GOK | Lat: 52.311923, Lon: 35.419859 | Iron
+Miles Branch | Lat: 37.207723, Lon: -81.560821 | Coal
+Mill Creek | Lat: 37.240148, Lon: -82.783427 | Coal
+Millennium | Lat: -22.028683, Lon: 148.260026 | Coal
+Miller Creek Complex | Lat: 37.687467, Lon: -82.155372 | Coal
+Mimosa | Lat: -20.327907, Lon: 29.825327 | Other (poly)-metallic
+MIMOSA Unit Mines | Lat: 27.923467, Lon: -101.359690 | Coal
+Minas Centrais | Lat: -19.907387, Lon: -43.492902 | Iron
+Minas Itabirito | Lat: -20.335956, Lon: -43.864967 | Iron
+Minas-Rio | No coordinates. | Iron
+Mine 84 | Lat: 40.142072, Lon: -80.177526 | Coal
+Minera Florida | Lat: -34.034115, Lon: -71.026718 | Gold
+Mingo Logan | No coordinates. | Coal
+Ministro Hales | Lat: -22.381904, Lon: -68.910437 | Copper
+Minntac | Lat: 47.543265, Lon: -92.606023 | Iron
+Minorca | Lat: 47.563691, Lon: -92.515728 | Iron
+Minto | Lat: 62.618094, Lon: -137.246686 | Copper
+Moa Project | Lat: 20.657457, Lon: -74.950103 | Nickel
+Moab Khotsong | Lat: -26.987488, Lon: 26.802239 | Gold
+Moatize | Lat: -16.160978, Lon: 33.799692 | Coal
+Modikwa | Lat: -24.640014, Lon: 30.128425 | Other (poly)-metallic
+Mogalakwena | Lat: -23.971409, Lon: 28.913987 | Other (poly)-metallic
+Molodenzhny | Lat: 50.862155, Lon: 73.670823 | Coal
+Mont Wright | Lat: 52.748491, Lon: -67.350998 | Iron
+Montcalm | Lat: 48.665306, Lon: -82.093226 | Nickel
+Moolarben | Lat: -32.281300, Lon: 149.763823 | Coal
+Moorvale | Lat: -21.970789, Lon: 148.369064 | Coal
+Mopani | Lat: -12.795913, Lon: 28.180033 | Copper
+Moranbah | Lat: -21.884087, Lon: 147.971130 | Coal
+Morenci | Lat: 33.063469, Lon: -109.335316 | Copper
+Morila | Lat: 11.680900, Lon: -6.846886 | Gold
+Morococha | Lat: -11.596726, Lon: -76.140663 | Silver
+Morrison | Lat: 46.638104, Lon: -81.398234 | Copper
+Morro da Mina | Lat: -20.633353, Lon: -43.769467 | Other (poly)-metallic
+Morro do Felipe | Lat: -0.894843, Lon: -52.376796 | Other mine
+Morro do Ouro | Lat: -24.515000, Lon: -48.832222 | Gold
+Morro Velho | Lat: -19.859417, Lon: -43.741911 | Gold
+Mosjoen Aluminium Smelter | Lat: 65.849215, Lon: 13.193472 | Processing
+Mototolo | Lat: -24.994282, Lon: 30.123090 | Other (poly)-metallic
+Mount Arthur | Lat: -32.334988, Lon: 150.883151 | Coal
+Mount Garnet | Lat: -17.676126, Lon: 145.114437 | Copper
+Mount Goldsworthy | Lat: -20.462604, Lon: 119.947359 | Iron
+Mount Keith | Lat: -27.209570, Lon: 120.556242 | Nickel
+Mount Marion | Lat: -31.080878, Lon: 121.433796 | Other (poly)-metallic
+Mount Monger | Lat: -31.014824, Lon: 121.923271 | Gold
+Mount Newman | Lat: -23.359087, Lon: 119.679359 | Iron
+Mount Thorley Warkworth | Lat: -32.569725, Lon: 151.059421 | Coal
+Mountain Laurel | Lat: 37.910140, Lon: -81.804673 | Coal
+Mozal | Lat: -25.912282, Lon: 32.408462 | Processing
+Mponeng | Lat: -26.436935, Lon: 27.431574 | Gold
+MRN Porto Trombetas | Lat: -1.676167, Lon: -56.414755 | Aluminium
+Mt Cattlin | Lat: -33.561249, Lon: 120.018580 | Other (poly)-metallic
+Mt Lyell | Lat: -42.059811, Lon: 145.579353 | Copper
+Mt Magnet | Lat: -28.027353, Lon: 117.816817 | Gold
+Mt Muro | Lat: -0.012222, Lon: 114.000000 | Gold
+Mt Owen/Glendell | Lat: -32.412398, Lon: 151.091640 | Coal
+Mt Sterling | Lat: 37.751943, Lon: -82.340621 | Coal
+Muhlenberg | No coordinates. | Coal
+Mulia/Jumbang | Lat: -3.878691, Lon: 115.109506 | Coal
+Murowa | Lat: -20.498214, Lon: 30.403957 | Other mine
+Murray Basin | Lat: -37.782498, Lon: 141.968445 | Iron
+Murrin Murrin | Lat: -28.767620, Lon: 121.895012 | Nickel
+Muskingum | No coordinates. | Coal
+Musselwhite | Lat: 52.611544, Lon: -90.366325 | Gold
+Muswellbrook | Lat: -32.251145, Lon: 150.944762 | Coal
+Mutanda | Lat: -10.787455, Lon: 25.809610 | Copper
+Myuna | Lat: -33.063457, Lon: 151.569115 | Coal
+Nadvoitsy Aluminium Smelter | Lat: 63.880140, Lon: 34.266478 | Processing
+Namakwa Sands | Lat: -31.272544, Lon: 17.902499 | Iron
+Namakwa Sands Smelter | Lat: -32.964732, Lon: 18.044387 | Processing
+Namosi | Lat: -18.086418, Lon: 178.129139 | Other mine
+Nanchuan | No coordinates. | Aluminium
+Nanliang | Lat: 39.081786, Lon: 110.581900 | Coal
+Narama | No coordinates. | Coal
+Narrabri | Lat: -30.519419, Lon: 149.895207 | Coal
+Navachab | Lat: -21.983841, Lon: 15.765853 | Gold
+Navajo | Lat: 36.585929, Lon: -108.514016 | Coal
+Neryungrinsky | Lat: 56.713362, Lon: 124.596488 | Coal
+Neves Corvo | Lat: 37.575019, Lon: -7.978096 | Copper
+New Clydesdale | Lat: -26.135608, Lon: 29.316250 | Coal
+New Denmark | Lat: -26.740708, Lon: 29.353190 | Coal
+New Lexington | No coordinates. | Coal
+New Vaal | Lat: -26.730031, Lon: 27.960925 | Coal
+Newlands | Lat: -21.196890, Lon: 147.887751 | Coal
+Neyveli I | Lat: 11.572318, Lon: 79.504101 | Coal
+Neyveli IA | Lat: 11.570723, Lon: 79.526183 | Coal
+Neyveli II | Lat: 11.520862, Lon: 79.476057 | Coal
+Nickel West Kwinana refinery | Lat: -32.253179, Lon: 115.768190 | Processing
+Nifty | Lat: -21.657074, Lon: 121.570095 | Copper
+Nikkelverk | Lat: 58.138424, Lon: 7.971501 | Processing
+Nikolaev Alumina | Lat: 46.776569, Lon: 31.958906 | Processing
+Nikolayevsky | Lat: 50.587339, Lon: 81.889291 | Copper
+Niquelandia | No coordinates. | Other mine
+Nkomati | Lat: -25.723441, Lon: 30.593748 | Nickel
+Noble | No coordinates. | Coal
+Noche Buena | Lat: 31.025207, Lon: -112.648224 | Gold
+Nooitgedacht | Lat: -25.741105, Lon: 29.791624 | Coal
+Nordenhamer Zinkhuette | Lat: 53.506784, Lon: 8.510069 | Processing
+Nornickel Kola Peninsula | Lat: 69.409388, Lon: 30.517755 | Nickel
+Nornickel Taimyr Peninsula | Lat: 69.484163, Lon: 88.359596 | Nickel
+Norte Abierto | Lat: -27.768626, Lon: -69.320073 | Other mine
+North Antelope Rochelle | Lat: 43.530668, Lon: -105.283292 | Coal
+North Block Complex | Lat: -25.692598, Lon: 30.014335 | Coal
+North Eastern Coalfields | Lat: 27.286660, Lon: 95.794509 | Coal
+North Goonyella | Lat: -21.669456, Lon: 147.955957 | Coal
+North Mara | Lat: -1.467039, Lon: 34.510612 | Gold
+North Urals | Lat: 60.284262, Lon: 60.022802 | Aluminium
+Northern Coalfields Limited | Lat: 24.152328, Lon: 82.678558 | Coal
+Northern GOK | Lat: 48.138840, Lon: 33.534884 | Iron
+Northern Star Kalgoorlie Operations | Lat: -30.721081, Lon: 121.236977 | Gold
+Northfleet | Lat: 51.453495, Lon: 0.321091 | Processing
+Northparkes | Lat: -32.937806, Lon: 148.063662 | Copper
+Northshore | Lat: 47.687438, Lon: -91.853207 | Iron
+Norwich Park | Lat: -22.700951, Lon: 148.414307 | Coal
+Novokuznetsk Aluminium Smelter | Lat: 53.776640, Lon: 87.242578 | Processing
+Nueva Rosita Complex | Lat: 27.921501, Lon: -101.224976 | Coal
+NuevaUnion | Lat: -28.515426, Lon: -70.312191 | Other mine
+Nurkazgan | Lat: 50.160434, Lon: 72.977772 | Copper
+Oak Grove | Lat: 33.440782, Lon: -87.137585 | Coal
+Oaky Creek | Lat: -23.039099, Lon: 148.539409 | Coal
+Obed Mountain | Lat: 53.564209, Lon: -117.508944 | Coal
+Obuasi | Lat: 6.172193, Lon: -1.692104 | Gold
+Odda | Lat: 60.092997, Lon: 6.532499 | Processing
+Ok Tedi | Lat: -5.934202, Lon: 141.137579 | Copper
+Oktyabrskaya | Lat: 54.573816, Lon: 86.257420 | Coal
+Olcon | Lat: 68.147678, Lon: 33.205428 | Iron
+Olympic Dam | Lat: -30.446428, Lon: 136.870109 | Copper
+Olzherassky | Lat: 53.833777, Lon: 88.136632 | Coal
+Ombilin | Lat: -0.629487, Lon: 100.755585 | Coal
+Onca Puma | Lat: -6.574276, Lon: -51.092391 | Nickel
+Optimum | Lat: -26.005851, Lon: 29.612249 | Coal
+Orcopampa | Lat: -15.277190, Lon: -72.334200 | Gold
+Orlovsky | Lat: 50.934022, Lon: 81.364621 | Copper
+Osbourne | Lat: -22.094721, Lon: 140.583498 | Other mine
+Oskol Electrometallurgical Plant | Lat: 51.151974, Lon: 37.939044 | Processing
+Ostrava steel plant | Lat: 49.795536, Lon: 18.304551 | Processing
+Ouro Preto Ferroalloys plant | Lat: -20.419622, Lon: -43.551363 | Processing
+Ovoid | Lat: 56.338620, Lon: -62.094981 | Nickel
+Oyu Tolgoi | Lat: 43.025420, Lon: 106.866503 | Copper
+Paddington | Lat: -30.491802, Lon: 121.351032 | Gold
+Paint Creek | Lat: 38.069393, Lon: -81.453085 | Coal
+Paintearth | Lat: 52.458166, Lon: -112.161561 | Coal
+Palabora | Lat: -23.992357, Lon: 31.131464 | Copper
+Palmarejo | Lat: 27.391175, Lon: -108.408276 | Silver
+Pampa Norte | Lat: -21.420109, Lon: -69.264366 | Copper
+Panchpatmali | Lat: 18.858201, Lon: 83.022710 | Aluminium
+Panther | Lat: 36.946149, Lon: -83.001202 | Coal
+Pantnagar | Lat: 29.035793, Lon: 79.395846 | Processing
+Paracatu | Lat: -17.180888, Lon: -46.885078 | Gold
+Paragominas | Lat: -3.264917, Lon: -47.734172 | Aluminium
+Paranam | Lat: 5.593836, Lon: -55.102544 | Processing
+Paraopeba | Lat: -20.073713, Lon: -44.035830 | Iron
+Pascua-Lama | Lat: -29.318275, Lon: -70.013289 | Other mine
+Patos de Minas | Lat: -18.373935, Lon: -46.912544 | Other mine
+Pattiki Complex | Lat: 38.067154, Lon: -88.096981 | Coal
+Paulsens | Lat: -22.580182, Lon: 116.242811 | Gold
+PBS Coal | Lat: 40.073417, Lon: -78.805638 | Coal
+Peace River Coal | Lat: 54.900884, Lon: -120.958128 | Coal
+Peak Downs | Lat: -22.254900, Lon: 148.179657 | Coal
+Pena Colorada | Lat: 19.373858, Lon: -104.089097 | Iron
+Penasquito | Lat: 24.657014, Lon: -101.717783 | Gold
+Pend Oreille | Lat: 48.878870, Lon: -117.354011 | Zinc
+Penjom | Lat: 4.137054, Lon: 101.981234 | Gold
+Pennsylvania Mining Complex | Lat: 39.957326, Lon: -80.416814 | Coal
+Peranap | Lat: -0.607651, Lon: 101.911981 | Coal
+Pering | Lat: -27.432689, Lon: 24.270210 | Zinc
+Perkasa Inakakerta | Lat: 0.783188, Lon: 117.678202 | Coal
+Pervomaysky | Lat: 54.269451, Lon: 86.885540 | Coal
+Petorca | Lat: -32.214371, Lon: -70.869432 | Gold
+Phil's Creek | Lat: -22.769008, Lon: 119.228221 | Iron
+Phoenix | Lat: 40.672937, Lon: -117.177953 | Copper
+Pierina | Lat: -9.459320, Lon: -77.587732 | Gold
+Pilares | Lat: 30.330216, Lon: -109.630699 | Other mine
+Pingdingshan | No coordinates. | Aluminium
+Pingdingshan Tianan Coal | Lat: 33.809436, Lon: 113.278814 | Coal
+Pingguo | Lat: 23.401098, Lon: 107.534775 | Aluminium
+Pingshuo | Lat: 39.483986, Lon: 112.368397 | Coal
+Pinjarra Alumina Refinery | Lat: -32.632511, Lon: 115.974517 | Processing
+Pinnacle Complex | Lat: 37.547254, Lon: -81.496112 | Coal
+Pinos Altos | Lat: 28.270556, Lon: -108.303056 | Gold
+Pinto Valley | Lat: 33.395592, Lon: -110.968468 | Copper
+Pit Bajau Bulungan Kaltara | Lat: 3.495814, Lon: 117.816615 | Coal
+Plainfield | No coordinates. | Coal
+Platinum Mile | Lat: -25.648294, Lon: 27.317879 | Other (poly)-metallic
+Plutonic | Lat: -25.315710, Lon: 119.450735 | Gold
+Pocos de Caldas | Lat: -21.842330, Lon: -46.590951 | Aluminium
+Pogo | Lat: 64.453506, Lon: -144.904510 | Gold
+Point Lisas | Lat: 10.403811, Lon: -61.482501 | Processing
+Poitrel | Lat: -22.041290, Lon: 148.260407 | Coal
+Polkowice-Sieroszowice | Lat: 51.536159, Lon: 16.034944 | Copper
+Polosukhinskaya | Lat: 53.921647, Lon: 87.324711 | Coal
+Pomalaa | Lat: -4.221194, Lon: 121.666106 | Nickel
+Pongkor and Cibaliung | Lat: -6.705529, Lon: 106.100699 | Gold
+Poondano | Lat: -20.453042, Lon: 118.834544 | Iron
+Poplar River | Lat: 49.217483, Lon: -105.480825 | Coal
+Poracota | Lat: -15.247445, Lon: -72.530421 | Gold
+Porcupine | Lat: 48.462954, Lon: -81.241920 | Gold
+Porgera | Lat: -5.463639, Lon: 143.092750 | Gold
+Portland Aluminium Smelter | Lat: -38.386427, Lon: 141.631275 | Processing
+POSMAC | No coordinates. | Other mine
+Presidente Vargas Steelworks | Lat: -22.512645, Lon: -44.113311 | Processing
+Prijedor | Lat: 44.874054, Lon: 16.897790 | Iron
+Princeton | Lat: 37.296922, Lon: -81.059866 | Coal
+Prokopyevsky | Lat: 53.945324, Lon: 86.629168 | Coal
+Prominent Hill | Lat: -29.729713, Lon: 135.564667 | Copper
+PT Adaro Indonesia | Lat: -2.206123, Lon: 115.520964 | Coal
+PT Adimitra Baratama Nusantara | Lat: -0.690176, Lon: 117.259964 | Coal
+PT Alusentosa | No coordinates. | Other mine
+PT Antang Gunung Meratus | Lat: -2.901305, Lon: 115.252679 | Coal
+PT Atlas Resources Tbk | Lat: -1.712625, Lon: 115.910615 | Coal
+PT Baramulti Suksessarana Tbk | Lat: -0.726150, Lon: 117.042742 | Coal
+PT Barasentosa Lestari | Lat: -2.608871, Lon: 103.223801 | Coal
+PT Batubara Bukit Kendi | No coordinates. | Coal
+PT Bhakti Energi Persada | No coordinates. | Other mine
+PT Bharinto Ekatama | Lat: -0.848944, Lon: 115.466683 | Coal
+PT Borneo Indobara | Lat: -3.584365, Lon: 115.648243 | Coal
+PT Bukit Enim Energi | No coordinates. | Other mine
+PT Central Omega Resources Tbk | Lat: -2.554860, Lon: 121.701261 | Other (poly)-metallic
+PT Gunungbayan Pratamacoal | Lat: -0.460671, Lon: 116.264883 | Coal
+PT Indominco Mandiri | Lat: 0.137380, Lon: 117.331872 | Coal
+PT Indomining | Lat: -0.676697, Lon: 117.262264 | Coal
+PT Insani Baraperkasa | Lat: -0.440813, Lon: 117.091045 | Coal
+PT Internasional Prima Coal | Lat: -0.641213, Lon: 117.185951 | Coal
+PT Jorong Barutama Greston | Lat: -3.903117, Lon: 114.993104 | Coal
+PT Kalmin | No coordinates. | Aluminium
+PT Kaltim Prima Coal | Lat: 0.690251, Lon: 117.555257 | Coal
+PT Karya Usaha Pertiwi | No coordinates. | Coal
+PT Kitadin | Lat: -0.320964, Lon: 117.086556 | Coal
+PT Mahakam Sumber Jaya | Lat: -0.187140, Lon: 117.232466 | Coal
+PT Mitrabara Adiperdana Tbk | Lat: 3.136129, Lon: 116.456863 | Coal
+PT Multi Tambangjaya Utama | Lat: -1.638303, Lon: 115.214995 | Coal
+PT Mustika Indah Permai | Lat: -3.799678, Lon: 103.407000 | Coal
+PT Santan Batubara | Lat: -0.064842, Lon: 117.297318 | Coal
+PT Smelting | Lat: -7.140553, Lon: 112.635945 | Processing
+PT Triaryani | Lat: -2.487535, Lon: 103.120545 | Coal
+PT Trisensa Mineral Utama | Lat: -0.698204, Lon: 117.122078 | Coal
+PT Trisula Kencana Sakti | No coordinates. | Coal
+PT Trubaindo Coal Mining | Lat: -0.640554, Lon: 115.699650 | Coal
+PT Tuah Turangga Agung | Lat: -1.031445, Lon: 114.669801 | Coal
+PT Visitama | No coordinates. | Other mine
+Pucarrajo | Lat: -9.817247, Lon: -77.101432 | Zinc
+Pueblo Viejo | Lat: 18.940250, Lon: -70.177972 | Gold
+Puna | Lat: -22.599069, Lon: -66.376431 | Silver
+Punitaqui | Lat: -30.858486, Lon: -71.225753 | Copper
+Pyhäsalmi | Lat: 63.661031, Lon: 26.040346 | Copper
+Quebrada Blanca | Lat: -21.003939, Lon: -68.801226 | Copper
+Quebradona | No coordinates. | Other mine
+Queensland Alumina | Lat: -23.868399, Lon: 151.288537 | Processing
+Quellaveco | Lat: -17.101969, Lon: -70.612130 | Other mine
+Quiruvilca | Lat: -8.002345, Lon: -78.309560 | Silver
+Rajpura Dariba | Lat: 24.947338, Lon: 74.131346 | Zinc
+Rampura Agucha | Lat: 25.831140, Lon: 74.741724 | Zinc
+Ras Al Khair Refinery | Lat: 27.520024, Lon: 49.170602 | Processing
+Raspadskaya | Lat: 53.768205, Lon: 88.117654 | Coal
+Raven | Lat: 37.384136, Lon: -82.823198 | Coal
+Ravensthorpe | Lat: -33.644958, Lon: 120.401691 | Nickel
+Ravenswood | Lat: -20.113654, Lon: 146.897460 | Gold
+Ravensworth Complex | Lat: -32.444346, Lon: 151.028147 | Coal
+Rawhide | Lat: 39.004323, Lon: -118.386847 | Gold
+Rawhide Coal | Lat: 44.406063, Lon: -105.459396 | Coal
+Recuperada | Lat: -13.094855, Lon: -74.950318 | Silver
+Red Dog | Lat: 68.075556, Lon: -162.856111 | Zinc
+Red Hills | Lat: 33.382175, Lon: -89.224548 | Coal
+Red Lake | Lat: 51.061186, Lon: -93.743587 | Gold
+Red River | Lat: 32.007672, Lon: -93.399676 | Coal
+Reed | Lat: 54.574751, Lon: -100.726626 | Copper
+Reefton | Lat: -42.119504, Lon: 171.862275 | Gold
+Reko Diq | Lat: 28.971916, Lon: 62.433028 | Other mine
+Remington | Lat: 38.093171, Lon: -81.477424 | Coal
+Rend Lake | No coordinates. | Coal
+Renison | Lat: -41.795235, Lon: 145.435804 | Other (poly)-metallic
+Riestpruit | Lat: -26.133750, Lon: 29.205240 | Coal
+Rio Capim | Lat: -2.826035, Lon: -47.894327 | Other mine
+Rio Grande | No coordinates. | Other mine
+Rio Tinto Kennecott | Lat: 40.724671, Lon: -112.199031 | Processing
+Rio Tuba | Lat: 8.570001, Lon: 117.418187 | Other (poly)-metallic
+Riola/Vermilion Grove | Lat: 39.934784, Lon: -87.657004 | Coal
+River View Complex | Lat: 37.742983, Lon: -87.887950 | Coal
+Riverdale | Lat: 41.653317, Lon: -87.634825 | Processing
+Robe River | Lat: -22.202130, Lon: 116.965924 | Iron
+Robinson | Lat: 39.264392, Lon: -115.010939 | Copper
+Robinson Run | Lat: 39.405551, Lon: -80.330125 | Coal
+Rochester | Lat: 40.285509, Lon: -118.154132 | Silver
+Rocklick | Lat: 37.867222, Lon: -81.637742 | Coal
+Rolleston | Lat: -24.439598, Lon: 148.422993 | Coal
+Rönnskär | Lat: 64.671506, Lon: 21.263623 | Processing
+Rosebery | Lat: -41.779159, Lon: 145.540313 | Zinc
+Rosemont | Lat: 31.858794, Lon: -110.707427 | Other mine
+Rosh Pinah | Lat: -27.955339, Lon: 16.765281 | Other (poly)-metallic
+Rössing | Lat: -22.479013, Lon: 15.048008 | Other (poly)-metallic
+Round Mountain | Lat: 38.708354, Lon: -117.103409 | Other (poly)-metallic
+Ruashi | Lat: -11.611254, Lon: 27.553987 | Copper
+Ruby Hill | Lat: 39.491040, Lon: -115.993114 | Gold
+Rudna | Lat: 51.500908, Lon: 16.106758 | Copper
+Rustenburg | Lat: -25.636898, Lon: 27.274681 | Other (poly)-metallic
+Sadiola | Lat: 13.869528, Lon: -11.647074 | Gold
+Safford | Lat: 32.946171, Lon: -109.649643 | Copper
+Saint-Jean-de-Maurienne | Lat: 45.273631, Lon: 6.365873 | Processing
+Sakhara | No coordinates. | Nickel
+Sakura Ferroalloys | Lat: 3.544908, Lon: 113.351307 | Processing
+Salek | Lat: 54.182769, Lon: 87.038016 | Coal
+Salobo | Lat: -5.789411, Lon: -50.535309 | Copper
+Salvador | Lat: -26.282513, Lon: -69.596941 | Copper
+Samarco | Lat: -20.201033, Lon: -43.492202 | Iron
+Sambarata | Lat: 2.187208, Lon: 117.457161 | Coal
+San Andres | Lat: 14.760848, Lon: -88.939374 | Gold
+San Bartolome | Lat: -19.631651, Lon: -65.735498 | Silver
+San Ciprian Refinery | Lat: 43.696782, Lon: -7.471175 | Processing
+San Dimas | Lat: 24.110529, Lon: -105.926747 | Gold
+San Jose | Lat: 24.647632, Lon: -107.097594 | Iron
+San Juan | Lat: 36.795320, Lon: -108.432675 | Coal
+San Juan de Nieva | Lat: 43.591032, Lon: -5.931146 | Processing
+San Julian | Lat: 26.032037, Lon: -106.500856 | Silver
+San Luis Potosi Complex | Lat: 22.173067, Lon: -101.033557 | Processing
+San Manuel | Lat: 32.696613, Lon: -110.689717 | Copper
+San Martin | Lat: 14.694194, Lon: -87.087539 | Gold
+San Miguel | Lat: 28.687363, Lon: -98.476217 | Coal
+San Vicente | Lat: -21.268716, Lon: -66.317048 | Silver
+Sandstone | Lat: -28.068067, Lon: 119.233660 | Gold
+Sanmenxia | No coordinates. | Aluminium
+Santo Domingo | Lat: -26.467385, Lon: -70.007462 | Other mine
+Sao Francisco | Lat: -14.848273, Lon: -59.652968 | Gold
+Sao Luis Iron Ore Pellet Operation | Lat: -2.565522, Lon: -44.345464 | Processing
+Saraji | Lat: -22.420059, Lon: 148.280558 | Coal
+Sarongga | No coordinates. | Coal
+Sasol Sigma | Lat: -26.942045, Lon: 27.729615 | Coal
+Satui | Lat: -3.731742, Lon: 115.315515 | Coal
+Saucito | Lat: 23.127228, Lon: -102.925889 | Silver
+Savage | Lat: 47.464567, Lon: -104.436423 | Coal
+Savuka | Lat: -26.422493, Lon: 27.403073 | Gold
+Sayak | Lat: 46.996755, Lon: 77.409541 | Copper
+Sayanogorsk Aluminium Smelter | Lat: 53.200102, Lon: 91.458882 | Processing
+Seabee | Lat: 55.684223, Lon: -103.620727 | Gold
+Sebree | Lat: 37.658715, Lon: -87.502799 | Processing
+Sebree - Onton Complex | Lat: 37.581975, Lon: -87.479920 | Coal
+Selbaie | Lat: 49.807637, Lon: -78.949190 | Zinc
+Selian | Lat: 39.866748, Lon: 109.846678 | Coal
+Senakin | Lat: -2.933462, Lon: 116.267189 | Coal
+Seneca | Lat: 40.394880, Lon: -107.243566 | Coal
+Sentinel | Lat: -12.281384, Lon: 25.301002 | Copper
+Sepon | Lat: 16.959633, Lon: 106.000358 | Copper
+Serra Azul | Lat: -20.133533, Lon: -44.398857 | Iron
+Serra Grande | Lat: -14.575292, Lon: -49.966420 | Gold
+Serra Leste | Lat: -5.970481, Lon: -49.628772 | Iron
+Serra Norte | Lat: -6.065621, Lon: -50.160132 | Iron
+Serra Sul | Lat: -6.392125, Lon: -50.310671 | Iron
+Sertao Mineracao LTDA | No coordinates. | Gold
+Seruyung | Lat: 3.897877, Lon: 117.229873 | Gold
+Sestao steel plant | Lat: 43.320101, Lon: -2.995305 | Processing
+Shaanxi Binhuang Mining Area | No coordinates. | Coal
+Shaanxi North Shaanxi Mining Area | No coordinates. | Coal
+Shaanxi Weibei Mining Area | No coordinates. | Coal
+Shahta No. 12 | Lat: 54.005608, Lon: 86.691037 | Coal
+Shahuindo | Lat: -7.627202, Lon: -78.212219 | Gold
+Shandong Huayu | No coordinates. | Processing
+Shanggong | Lat: 34.176907, Lon: 111.552164 | Gold
+Shanxi Huasheng | No coordinates. | Processing
+Shanxi Lu'an Mines | Lat: 36.687816, Lon: 112.863583 | Coal
+Shanxi New Material | No coordinates. | Processing
+Shanxi Zhongrun Aluminium | No coordinates. | Processing
+Shatyrkul | Lat: 43.616634, Lon: 74.262200 | Copper
+Shawinigan | Lat: 46.560591, Lon: -72.737485 | Processing
+Sheerness | Lat: 51.488572, Lon: -111.667826 | Coal
+Shendong Mines | Lat: 39.384617, Lon: 110.227609 | Coal
+Shengli Mines | Lat: 43.983227, Lon: 116.015218 | Coal
+Shenhua Baotou Coal Chemical Refinery | Lat: 40.609678, Lon: 109.642658 | Processing
+Shestaki | Lat: 54.336726, Lon: 86.103979 | Coal
+Shila-Paula | Lat: -15.347198, Lon: -72.123243 | Gold
+Shilawusu | Lat: 39.018660, Lon: 109.619361 | Coal
+Shoal Creek | Lat: 33.519836, Lon: -87.304459 | Coal
+Shoemaker | Lat: 39.985616, Lon: -80.655665 | Coal
+Shondoni | Lat: -26.467015, Lon: 29.056645 | Coal
+Shuguang | Lat: 43.214718, Lon: 130.890267 | Gold
+Shuiyindong | Lat: 25.384686, Lon: 105.628977 | Gold
+Siana | Lat: 9.539296, Lon: 125.578096 | Gold
+Sibenergougol | Lat: 53.590942, Lon: 86.889991 | Coal
+Sibirginsky | Lat: 53.616066, Lon: 87.831303 | Coal
+Sierra Gorda | Lat: -22.877928, Lon: -69.360802 | Copper
+Sierra Rutile | Lat: 7.765787, Lon: -12.294676 | Iron
+Sierrita | Lat: 31.875774, Lon: -111.101280 | Copper
+Siguiri | Lat: 11.556830, Lon: -9.353169 | Gold
+Silvassa | Lat: 20.285496, Lon: 72.983802 | Processing
+Silvertip | Lat: 59.928119, Lon: -130.337474 | Zinc
+Simandou | Lat: 8.517199, Lon: -8.899474 | Other mine
+Simberi | Lat: -2.622242, Lon: 151.998596 | Gold
+Simoes Filho Ferroalloys plant | Lat: -12.784932, Lon: -38.414856 | Processing
+Sinclair | Lat: -28.360595, Lon: 120.858031 | Nickel
+Sino Iron | Lat: -21.080694, Lon: 116.154655 | Iron
+Sishen | Lat: -27.781790, Lon: 22.984909 | Iron
+Sissingue | Lat: 10.431850, Lon: -6.183114 | Gold
+Skorpion | Lat: -27.812911, Lon: 16.602164 | Zinc
+Skyline | Lat: 39.684407, Lon: -111.201840 | Coal
+Smederevo | Lat: 44.604517, Lon: 20.970500 | Processing
+Sohar | Lat: 24.415896, Lon: 56.547601 | Processing
+Soledad-Dipolos | Lat: 31.223036, Lon: -112.903932 | Gold
+Somerville | Lat: 38.290179, Lon: -87.366924 | Coal
+Soral | Lat: 59.866788, Lon: 5.771189 | Processing
+Sorowako | Lat: -2.568679, Lon: 121.379598 | Nickel
+Sossego | Lat: -6.411722, Lon: -50.050100 | Copper
+South Eastern Coalfields Limited | Lat: 23.021857, Lon: 82.193487 | Coal
+South Hallsville No. 1 | Lat: 32.475956, Lon: -94.520846 | Coal
+South Kalgoorlie | Lat: -31.038630, Lon: 121.615260 | Gold
+South Stock | No coordinates. | Coal
+South Walker Creek | Lat: -21.777217, Lon: 148.481586 | Coal
+Southern Cross | Lat: -31.292631, Lon: 119.393549 | Gold
+Southern GOK | Lat: 47.837935, Lon: 33.308311 | Iron
+Southern Iron | Lat: -29.586333, Lon: 135.368022 | Iron
+Southern West Virginia Resources | No coordinates. | Coal
+Southstock | Lat: -26.159182, Lon: 29.146084 | Coal
+Spinifex Ridge | Lat: -20.885489, Lon: 120.086673 | Iron
+Spitzkop | Lat: -26.357936, Lon: 29.971442 | Coal
+Spring Creek | Lat: 45.127419, Lon: -106.920404 | Coal
+Springvale | Lat: -33.404527, Lon: 150.106674 | Coal
+Stagdok | Lat: 52.625451, Lon: 39.609705 | Other mine
+Steelton | Lat: 40.232756, Lon: -76.835519 | Processing
+Stepnoy | Lat: 53.717558, Lon: 91.113415 | Coal
+Stillwater | Lat: 45.389157, Lon: -109.875046 | Other (poly)-metallic
+Stobie | Lat: 46.537788, Lon: -80.991638 | Nickel
+Stoilensky | Lat: 51.244337, Lon: 37.788233 | Iron
+Storliden | Lat: 65.230924, Lon: 18.883434 | Zinc
+Stratford Duralie | Lat: -32.302849, Lon: 151.941229 | Coal
+Sudbury Integrated Nickel Operations | Lat: 51.669335, Lon: -78.608025 | Nickel
+SUEK Buryatia | Lat: 51.284655, Lon: 108.452378 | Coal
+SUEK Kemerovo | Lat: 54.386315, Lon: 86.687872 | Coal
+SUEK Khabarovsk | Lat: 51.114482, Lon: 132.983251 | Coal
+SUEK Khakassia | Lat: 53.626946, Lon: 91.239560 | Coal
+SUEK Krasnoyarsk | Lat: 55.831993, Lon: 91.470510 | Coal
+SUEK Primorye | Lat: 44.127460, Lon: 131.898939 | Coal
+SUEK Zabaikalye | Lat: 53.112457, Lon: 115.877383 | Coal
+Sufco | Lat: 38.913383, Lon: -111.416817 | Coal
+Sukari | Lat: 24.944877, Lon: 34.714919 | Gold
+Sukha Balka | Lat: 48.006035, Lon: 33.439489 | Iron
+Sunrise Dam | Lat: -29.077361, Lon: 122.417395 | Gold
+Sycamore and Imperial | Lat: 39.016256, Lon: -80.227578 | Coal
+Syferfontein | Lat: -26.409145, Lon: 29.203956 | Coal
+Tabang Project | Lat: 0.528646, Lon: 116.123644 | Coal
+Taca Taca | Lat: -24.588904, Lon: -67.749557 | Other mine
+Taganito | Lat: 9.535918, Lon: 125.817576 | Other (poly)-metallic
+Taganito HPAL Nickel Corporation | Lat: 9.540178, Lon: 125.813480 | Processing
+Tahmoor | Lat: -34.249926, Lon: 150.578386 | Coal
+Tajo Norte | Lat: -10.751868, Lon: -76.271851 | Zinc
+Talabira | Lat: 21.734445, Lon: 83.991707 | Coal
+Taldybulak Levoberezhny | Lat: 42.683338, Lon: 75.667436 | Gold
+Tallering Peak | Lat: -28.113349, Lon: 115.600329 | Iron
+Tambomayo | Lat: -15.469231, Lon: -71.915542 | Gold
+Tanami | Lat: -20.544167, Lon: 130.334371 | Gold
+Tanjung Enim | Lat: -3.737445, Lon: 103.797499 | Coal
+Tantahuatay | Lat: -6.740413, Lon: -78.697285 | Gold
+Tapira | Lat: -19.842936, Lon: -46.852588 | Other mine
+Taquari-Vassouras | Lat: -10.654775, Lon: -37.033745 | Other (poly)-metallic
+Tara | Lat: 53.654479, Lon: -6.720486 | Zinc
+Taranto steel plant | Lat: 40.521055, Lon: 17.217472 | Processing
+Tarong | Lat: -26.793778, Lon: 151.898569 | Coal
+Tashan | Lat: 39.923464, Lon: 113.069063 | Coal
+Tasiast | Lat: 20.550151, Lon: -15.510972 | Other (poly)-metallic
+Tau Lekoa | Lat: -26.998154, Lon: 26.616409 | Gold
+TauTona | Lat: -26.415384, Lon: 27.430630 | Gold
+Tayan | Lat: -0.060504, Lon: 110.141292 | Aluminium
+Teguh Sinarabadi and Firman Ketaun Perkasa | Lat: -0.427732, Lon: 115.675033 | Coal
+Telfer | Lat: -21.730009, Lon: 122.214409 | Gold
+TEMCO | Lat: -41.128327, Lon: 146.869546 | Processing
+Temirtau steel plant | Lat: 50.053527, Lon: 73.018706 | Processing
+Tenke Fungurume | Lat: -10.563552, Lon: 26.187369 | Copper
+Thabazimbi | Lat: -24.607378, Lon: 27.389527 | Iron
+Thalanga | Lat: -20.336718, Lon: 145.773125 | Copper
+The Boliden Area | Lat: 64.967561, Lon: 19.765906 | Zinc
+Thompson | Lat: 55.712834, Lon: -97.850785 | Nickel
+Thunderbox | Lat: -28.179265, Lon: 121.000784 | Gold
+Tia Maria | Lat: -17.013459, Lon: -71.768504 | Other mine
+Tianchi | Lat: 37.239289, Lon: 113.473599 | Coal
+Tiandeng | No coordinates. | Other (poly)-metallic
+Tilden | Lat: 46.447440, Lon: -87.649605 | Iron
+Timan | Lat: 64.320345, Lon: 51.103587 | Aluminium
+Timmins West & Bell Creek | Lat: 48.555433, Lon: -81.174272 | Gold
+Tiwai Point | Lat: -46.587576, Lon: 168.384756 | Processing
+Tohono | Lat: 32.005638, Lon: -110.988436 | Copper
+Tomago | Lat: -32.825168, Lon: 151.717989 | Processing
+Tomusinsky | Lat: 53.635503, Lon: 87.867550 | Coal
+Tongon | Lat: 9.937917, Lon: -5.705472 | Other mine
+Toquepala | Lat: -17.252819, Lon: -70.603973 | Copper
+Totten | Lat: 46.382360, Lon: -81.451645 | Nickel
+Touquoy | Lat: 44.986458, Lon: -62.917366 | Gold
+Trail Operations | Lat: 49.101110, Lon: -117.714135 | Processing
+Tres Valles | Lat: -31.722285, Lon: -71.009023 | Copper
+Tritton | Lat: -31.397238, Lon: 146.722368 | Copper
+Tropicana | Lat: -29.240461, Lon: 124.540300 | Gold
+Tselentis | Lat: -26.264511, Lon: 30.029462 | Coal
+Tshikondeni | Lat: -22.514513, Lon: 30.943148 | Coal
+Tuhup | Lat: -0.514145, Lon: 114.829065 | Coal
+Tujuh Bukit | Lat: -8.624341, Lon: 114.039460 | Gold
+Tulawaka | Lat: -3.203934, Lon: 31.529474 | Gold
+Tunnel Ridge Complex | Lat: 40.126252, Lon: -80.603576 | Coal
+Tuscarawas | No coordinates. | Coal
+Tusky | Lat: 40.324368, Lon: -81.491137 | Other mine
+Tuticorin | Lat: 8.821015, Lon: 78.080212 | Processing
+Tweefontein | Lat: -26.037662, Lon: 29.167777 | Coal
+Twentymile | Lat: 40.409421, Lon: -107.039497 | Coal
+Twin Creeks Operation | Lat: 41.217938, Lon: -117.206200 | Gold
+Twistdraai Thubelisha | Lat: -26.462332, Lon: 29.288249 | Coal
+Two Rivers | Lat: -24.935207, Lon: 30.104568 | Other (poly)-metallic
+Tyrone | Lat: 32.643967, Lon: -108.367826 | Copper
+U. S. Steel Kosice | Lat: 48.624314, Lon: 21.188045 | Processing
+Ubuntu | Lat: -26.193602, Lon: 28.863406 | Coal
+Uchucchacua | Lat: -10.623623, Lon: -76.690654 | Silver
+Ulan | Lat: -32.277841, Lon: 149.772768 | Coal
+Union Reefs | Lat: -13.820471, Lon: 131.831590 | Gold
+United | Lat: -32.548362, Lon: 150.998348 | Coal
+United Coal Company | No coordinates. | Coal
+United Taconite | Lat: 47.474926, Lon: -92.536591 | Iron
+Unki | Lat: -19.622660, Lon: 30.094857 | Other (poly)-metallic
+Ural Steel | Lat: 51.210518, Lon: 58.350672 | Processing
+Urals Works | Lat: 56.375979, Lon: 61.971907 | Processing
+Urucum | Lat: -19.189124, Lon: -57.612898 | Iron
+V.I. Lenina | Lat: 53.702332, Lon: 88.073219 | Coal
+Vale New Caledonia | Lat: -22.336326, Lon: 166.912908 | Nickel
+Vale Oman Pellet Operation | Lat: 24.506393, Lon: 56.591348 | Processing
+Vale Tubarao | Lat: -20.286303, Lon: -40.239407 | Processing
+Valesul | Lat: -22.899441, Lon: -43.651437 | Processing
+Vargem Grande | Lat: -20.120338, Lon: -43.915016 | Iron
+Vedanta Goa mines | Lat: 15.465759, Lon: 74.052008 | Iron
+Veladero | Lat: -29.378722, Lon: -69.951861 | Gold
+Ventanas | Lat: -32.764823, Lon: -71.482240 | Processing
+Vergenoeg | Lat: -25.256941, Lon: 28.584204 | Other mine
+Viking | Lat: 38.666839, Lon: -86.998704 | Coal
+Vindex | Lat: 37.797612, Lon: -79.768902 | Coal
+Vinogradovsky | Lat: 54.396442, Lon: 86.827261 | Coal
+Vinton | Lat: 31.965069, Lon: -106.583490 | Processing
+Viper | Lat: 39.971954, Lon: -89.530106 | Coal
+Vizag | Lat: 17.695551, Lon: 83.216673 | Processing
+Volgograd Aluminium Smelter | Lat: 48.832221, Lon: 44.596887 | Processing
+Volkhov Aluminium Smelter | No coordinates. | Processing
+Vorkutaugol | Lat: 67.591643, Lon: 63.630014 | Coal
+VP-8 | No coordinates. | Coal
+Vygenhoek | No coordinates. | Other mine
+Wabush | Lat: 52.907694, Lon: -66.938413 | Iron
+Wafi-Golpu | Lat: -6.862860, Lon: 146.452260 | Other mine
+Wagerup Alumina Refinery | Lat: -32.904829, Lon: 115.919221 | Processing
+Wahana Baratama | Lat: -3.725395, Lon: 115.309852 | Coal
+Waifu | No coordinates. | Other mine
+Waihi | Lat: -37.386548, Lon: 175.842042 | Gold
+Wambo | Lat: -32.580517, Lon: 151.010544 | Coal
+Warrick Aluminium Smelter | Lat: 37.919205, Lon: -87.330532 | Processing
+Warrior Complex | Lat: 37.383893, Lon: -87.611866 | Coal
+Watagan | Lat: -32.726731, Lon: 151.329707 | Coal
+Weipa | Lat: -12.734623, Lon: 141.732319 | Aluminium
+Wells | Lat: 37.939243, Lon: -81.683205 | Coal
+Wenatchee Aluminium Smelter | Lat: 47.355599, Lon: -120.122856 | Processing
+Wenyu | No coordinates. | Coal
+Werris Creek | Lat: -31.385378, Lon: 150.633356 | Coal
+West Elk | Lat: 38.928384, Lon: -107.444408 | Coal
+West Wallsend | Lat: -32.936918, Lon: 151.577009 | Coal
+Western Allegheny | Lat: 40.520192, Lon: -79.321048 | Coal
+Western Coalfields Limited | Lat: 20.841398, Lon: 79.069272 | Coal
+Western Range Project | Lat: 7.567059, Lon: -8.540207 | Iron
+Westside | Lat: -32.948080, Lon: 151.573550 | Coal
+Wetar | Lat: -7.706117, Lon: 126.329576 | Copper
+Wharf | Lat: 44.347103, Lon: -103.845811 | Gold
+Whim Creek | Lat: -20.837897, Lon: 117.833916 | Copper
+Whitewood | Lat: 53.487519, Lon: -114.596402 | Coal
+Wild Boar | Lat: 38.178449, Lon: -87.279735 | Coal
+Wildcat Hills/Cottage Grove | Lat: 37.759536, Lon: -88.397841 | Coal
+Wilkie Creek | Lat: -27.043779, Lon: 150.960211 | Coal
+Wilpinjong | Lat: -32.319412, Lon: 149.865463 | Coal
+Wiluna | Lat: -26.629213, Lon: 120.255726 | Gold
+Windalco | Lat: 18.126787, Lon: -77.268815 | Aluminium
+Windsor | No coordinates. | Coal
+Wodgina | Lat: -21.176001, Lon: 118.677108 | Other (poly)-metallic
+Worsley | Lat: -33.241397, Lon: 116.074663 | Other mine
+Wulagen | No coordinates. | Zinc
+Xiaoguan | No coordinates. | Aluminium
+Xiaoyi | No coordinates. | Aluminium
+Xinghua Technology | No coordinates. | Processing
+Xinji Mining Area | Lat: 32.759015, Lon: 116.393339 | Coal
+Xinjiang Jinbao | No coordinates. | Iron
+Xuchang | No coordinates. | Aluminium
+Yabulu | Lat: -19.205011, Lon: 146.612390 | Processing
+Yakovlevskiy | Lat: 50.861272, Lon: 36.419306 | Iron
+Yanacocha | Lat: -6.972950, Lon: -78.497925 | Gold
+Yancoal International | Lat: -30.025523, Lon: 133.318763 | Coal
+Yandi | Lat: -22.767476, Lon: 119.202604 | Iron
+Yangcun | Lat: 35.468500, Lon: 116.801107 | Coal
+Yangquan | No coordinates. | Aluminium
+Yankuang metallurgic coke plant | No coordinates. | Processing
+Yanzhou Shandong Area | Lat: 35.394904, Lon: 116.797504 | Coal
+Yarrabee | Lat: -23.321279, Lon: 148.870961 | Coal
+Yarwun | Lat: -23.828780, Lon: 151.153309 | Processing
+Yatela | Lat: 14.084742, Lon: -11.754168 | Gold
+Yauli | Lat: -11.682532, Lon: -76.091202 | Zinc
+Yauricocha | Lat: -12.310500, Lon: -75.721900 | Zinc
+Yenakiieve Steel | Lat: 48.222060, Lon: 38.218959 | Processing
+Yilgarn Project | Lat: -30.459828, Lon: 119.992439 | Iron
+Yintai Inner Mongolia | Lat: 39.482602, Lon: 110.523721 | Coal
+Yixingzhai | Lat: 39.364159, Lon: 113.598869 | Gold
+Yubileyno-Snegirikhinsky | No coordinates. | Copper
+Yueyang | No coordinates. | Silver
+Yunnan Huaxi | No coordinates. | Silver
+Yuzhkuzbassugol | Lat: 53.772533, Lon: 87.404756 | Coal
+Yuzhnaya | Lat: 55.600266, Lon: 86.095390 | Coal
+Zafranal | Lat: -16.045942, Lon: -72.246918 | Other mine
+Zaldivar | Lat: -24.201034, Lon: -69.064661 | Copper
+Zaporizhia Coke | Lat: 47.865523, Lon: 35.145940 | Processing
+Zaporizhstal | Lat: 47.864823, Lon: 35.158486 | Processing
+Zaporozhye Alumina Refinery | Lat: 47.881671, Lon: 35.181731 | Processing
+Zaragoza steel plant | Lat: 41.569458, Lon: -0.855299 | Processing
+Zarechnaya | No coordinates. | Coal
+Zawar | Lat: 24.362836, Lon: 73.721685 | Zinc
+Zenica steel plant | Lat: 44.230103, Lon: 17.899108 | Processing
+Zeravshan | Lat: 39.365228, Lon: 67.731045 | Gold
+Zhaolou | Lat: 35.386540, Lon: 115.952645 | Coal
+Zhengzhou Institute | No coordinates. | Processing
+Zhezkazgan Annensky | Lat: 47.884368, Lon: 67.491546 | Copper
+Zhezkazgan East and West | Lat: 47.872845, Lon: 67.485226 | Copper
+Zhezkazgan North | Lat: 47.901495, Lon: 67.457043 | Copper
+Zhezkazgan Smelter | Lat: 47.776592, Lon: 67.722518 | Processing
+Zhezkazgan South and Stepnoy | Lat: 47.824324, Lon: 67.384717 | Copper
+Zhezkazgan Zhomart | Lat: 47.869659, Lon: 67.444670 | Copper
+Zhongzhou Aluminum | No coordinates. | Processing
+Zhunge’er Mines | Lat: 39.761123, Lon: 111.253594 | Coal
+Zibulo | Lat: -26.200061, Lon: 29.017396 | Coal
+Zijinshan | Lat: 25.189795, Lon: 116.405437 | Gold
+Zincor | Lat: -26.313343, Lon: 28.479646 | Processing
+Zinkgruvan | Lat: 58.816437, Lon: 15.103457 | Zinc
+Zondernaam | No coordinates. | Other mine
+Zululand Anthracite Collieries | Lat: -28.221567, Lon: 31.673815 | Coal
+Zunyi | No coordinates. | Aluminium

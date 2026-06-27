@@ -11,3 +11,9 @@
 
 ## Mine Locations
 ![Facility Animation](facilities.gif)
+
+## Mines by type
+![Facility types](mines_by_type.png)
+
+## Mine types by latitude
+![Facilities by Latitude](mines_by_latitude.png)
