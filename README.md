@@ -17,3 +17,4 @@
 
 ## Mine types by latitude
 ![Facilities by Latitude](mines_by_latitude.png)
+TODO: normalize by land area and population per latitude band
