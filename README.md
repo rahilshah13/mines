@@ -19,5 +19,5 @@
 ![Facilities by Latitude](mines_by_latitude.png)
 TODO: normalize latitude bands by land area and population
 
-# Mine types by Elevation
+## Mine types by Elevation
 ![Facilities by Elevation](mines_by_elevation.png)
